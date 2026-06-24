@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Swiss drug crime is falling, even as cocaine remains everywhere.</title>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+    <style>
+        *, *::before, *::after { box-sizing: border-box; }
+
+        body {
+            margin: 0;
+            font-size: 20px;
+            font-family: 'Lora', Georgia, serif;
+            text-rendering: optimizeLegibility;
+            background: #f5f5f5;
+            color: #1a1a1a;
+        }
+
+        .content {
+            max-width: 700px;
+            margin: auto;
+            padding: 0 1.5em;
+        }
+
+        /* ── Header ── */
+        .header-block {
+            background: #1a1a1a;
+            color: #f5f0ea;
+            padding: 5em 0 4em;
+        }
+
+        .header-block .content {}
+
+        .kicker {
+            font-family: 'Lora', Georgia, serif;
+            font-size: 0.7em;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: #c94c43;
+            margin-bottom: 0.8em;
+        }
+
+        h1 {
+            font-family: 'Libre Baskerville', serif;
+            font-weight: 700;
+            font-size: 3em;
+            line-height: 1.08;
+            margin: 0 0 0.5em 0;
+            color: #f5f0ea;
+        }
+
+        .subhead {
+            font-family: 'Lora', Georgia, serif;
+            font-size: 1.15em;
+            line-height: 1.55;
+            color: #b0a898;
+            margin: 0 0 1.5em 0;
+        }
+
+        .byline {
+            font-size: 0.78em;
+            color: #807870;
+            letter-spacing: 0.04em;
+            border-top: 1px solid #333;
+            padding-top: 1em;
+        }
+
+        /* ── Body ── */
+        .body-section {
+            padding: 3em 0;
+        }
+
+        p {
+            line-height: 1.7;
+            margin: 0;
+            padding-bottom: 1.2em;
+            color: #2a2a2a;
+        }
+
+        a { color: #c94c43; }
+
+        h2 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 1.5em;
+            line-height: 1.2;
+            margin: 2.5em 0 0.6em 0;
+            color: #1a1a1a;
+            border-top: 2px solid #222;
+            padding-top: 0.8em;
+        }
+
+        /* Opening paragraph — larger */
+        .lede {
+            font-size: 1.18em;
+            line-height: 1.65;
+            padding-bottom: 1.4em;
+        }
+
+        /* Key finding box */
+        .nutgraf {
+            background: #efefef;
+            border-left: 4px solid #555;
+            padding: 1.1em 1.4em;
+            margin: 1.8em 0;
+            color: #2a2a2a;
+            font-size: 1.05em;
+            line-height: 1.6;
+        }
+
+        /* Pull quote */
+        .pullquote {
+            font-family: 'Libre Baskerville', serif;
+            font-style: italic;
+            font-size: 1.35em;
+            line-height: 1.45;
+            color: #333;
+            border-top: 1px solid #ccc;
+            border-bottom: 1px solid #ccc;
+            padding: 1em 0;
+            margin: 2em 0;
+        }
+
+        /* Methodology box */
+        .method-box {
+            background: #ebebeb;
+            border-radius: 4px;
+            padding: 1em 1.4em;
+            font-size: 0.85em;
+            line-height: 1.55;
+            color: #555;
+            margin: 1.5em 0 2em;
+        }
+        .method-box strong {
+            display: block;
+            font-family: 'Libre Baskerville', serif;
+            color: #222;
+            margin-bottom: 0.3em;
+            font-size: 1em;
+        }
+
+        /* Stat callouts */
+        .stat-row {
+            display: flex;
+            gap: 1.5em;
+            margin: 2em 0;
+        }
+        .stat-item {
+            flex: 1;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-top: 3px solid #222;
+            padding: 1em 1.2em;
+        }
+        .stat-number {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 2em;
+            font-weight: 700;
+            color: #1a1a1a;
+            line-height: 1;
+            margin-bottom: 0.2em;
+        }
+        .stat-label {
+            font-size: 0.78em;
+            color: #666;
+            line-height: 1.4;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Section divider */
+        .divider {
+            border: none;
+            border-top: 1px solid #ddd;
+            margin: 3em 0 0;
+        }
+
+        iframe {
+            width: 0;
+            min-width: 100% !important;
+            border: none;
+            padding: 1em 0 0.5em 0;
+        }
+
+        .chart-note {
+            font-size: 0.78em;
+            color: #888;
+            padding-bottom: 2em;
+            line-height: 1.4;
+        }
+
+        /* Footer */
+        .footer {
+            background: #1a1a1a;
+            color: #888;
+            text-align: center;
+            font-size: 0.78em;
+            margin-top: 5em;
+            padding: 3em 0;
+            line-height: 1.6;
+        }
+        .footer p { color: #888; padding-bottom: 0; }
+
+        /* ── Scrollytelling ── */
+        .scrolly-section {
+            position: relative;
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 0 1.5em;
+        }
+        .scrolly-triggers {
+            position: relative;
+            height: 250vh;
+        }
+        .scrolly-graphic {
+            position: sticky;
+            top: 8vh;
+            height: 84vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .map-stack {
+            position: relative;
+            width: 100%;
+        }
+        .map-stack img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        .map-stack img.map-overlay {
+            position: absolute;
+            top: 0; left: 0;
+            opacity: 0;
+            transition: opacity 0.6s ease;
+        }
+        .map-stack img.map-overlay.visible { opacity: 1; }
+        .map-caption {
+            font-size: 0.72em;
+            color: #888;
+            margin-top: 0.6em;
+            line-height: 1.4;
+            text-align: center;
+            width: 100%;
+        }
+
+        @media (max-width: 640px) {
+            body { font-size: 18px; }
+            h1 { font-size: 2.2em; }
+            .stat-row { flex-direction: column; gap: 1em; }
+        }
+    </style>
+</head>
+
+<body>
+
+<!-- ── Header ── -->
+<div class="header-block">
+    <div class="content">
+        <p class="kicker">Data Analysis · Drug Policy</p>
+        <h1>Swiss drug crime is falling, even as cocaine remains everywhere.</h1>
+        <p class="subhead">Cocaine residues remain among Europe's highest. Yet drug offences have almost halved — and the people behind them are getting older.</p>
+        <p class="byline">By Anielle Peterhans</p>
+    </div>
+</div>
+
+<!-- ── Body ── -->
+<div class="body-section">
+<div class="content">
+
+
+    <p>In European wastewater measurements, Switzerland consistently ranks near the top for cocaine residues — alongside countries like Belgium, the Netherlands and Spain. 
+        Wastewater studies have repeatedly identified Switzerland as one of Europe's higher-consuming countries for cocaine.
+        Researchers <a href="https://www.admin.ch/en/nsb?id=53138" target="_blank">reported above-average levels in Swiss cities as early as 2014</a>,
+        and recent analyses continue to place several Swiss cities among Europe's cocaine hotspots. 
+
+         Yet in Swiss police statistics, drug-related offences have fallen by nearly half over the past 15 years. 
+</p>    
+    <p>How can a country rank among Europe's highest cocaine consumers while recording dramatically fewer drug offences? </p>
+
+    <div class="nutgraf">
+        Wastewater traces residues of what people actually consume. Police statistics capture what enforcement agencies detect, record and classify. When the two diverge, 
+        it tells us something important about how drug policy has changed — not just drug use.
+    </div>
+
+    <div class="stat-row">
+        <div class="stat-item">
+            <div class="stat-number">8th</div>
+            <div class="stat-label">Switzerland's cocaine ranking among 41 European countries in wastewater data</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-number">−48%</div>
+            <div class="stat-label">Drop in police-recorded drug offences from 2009 to 2025</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-number">50+</div>
+            <div class="stat-label">Age group with the only growing share of recorded drug suspects</div>
+        </div>
+    </div>
+
+
+    <h2>What wastewater tells us that arrests cannot</h2>
+
+    <p>Wastewater analysis is one of the most direct windows into drug consumption that researchers have. Instead of relying on police seizures or self-reported surveys — both of which carry obvious biases — scientists measure drug metabolites in sewage systems and compare average daily loads across cities.</p>
+
+    <div class="method-box">
+        <strong>How it works</strong>
+        When the body processes a drug, it excretes metabolites — chemical traces that pass into the sewage system. Researchers sample wastewater at treatment plants and measure these residues, then normalise the figures by population to allow comparisons across sites and countries.
+    </div>
+
+    <p>In the latest dataset from the European Union Drugs Agency, Switzerland ranks eighth out of 41 participating countries for cocaine residues — placing it squarely in the same tier as Belgium, the Netherlands and Spain.</p>
+
+    <iframe title="Cocaine: Switzerland ranks 8th out of 41 countries" aria-label="Bar Chart" id="datawrapper-chart-OEDYw" src="https://datawrapper.dwcdn.net/OEDYw/2/" scrolling="no" frameborder="0" height="1380" data-external="1"></iframe>
+    <p class="chart-note">Source: European Union Drugs Agency wastewater analysis. Figures show average daily loads of cocaine metabolites per 1,000 inhabitants.</p>
+
+    <hr class="divider">
+
+    <h2>Swiss cities have very different drug profiles</h2>
+
+    <p>The national ranking is only part of the picture. When you look at individual Swiss cities, the variation is striking — and cocaine is not the only substance worth examining.</p>
+
+    <p>The heatmap below compares residues of five substances across Swiss cities. Some cities stand out for cocaine; others show higher signals for MDMA or ketamine. No two cities look the same.</p>
+
+    <iframe title="Drug residues in wastewater across Swiss cities" aria-label="Table" id="datawrapper-chart-SHu95" src="https://datawrapper.dwcdn.net/SHu95/2/" scrolling="no" frameborder="0" height="700" data-external="1"></iframe>
+    <p class="chart-note">Darker cells indicate higher average daily loads detected in wastewater. Source: European Union Drugs Agency.</p>
+
+    <p>The geographic spread matters too. Cocaine signals are highest in larger urban centres — a pattern visible across Europe, where cities tend to show higher consumption than rural areas.</p>
+
+</div>
+</div>
+
+<!-- ── Scrollytelling: Swiss cities map ── -->
+<div class="scrolly-section">
+    <div class="scrolly-triggers">
+
+        <div class="scrolly-graphic">
+            <div class="map-stack">
+                <img src="map-step-1.svg" alt="Switzerland base map">
+                <img src="map-step-2.svg" alt="Swiss cities cocaine data partial" class="map-overlay" id="map-2">
+                <img src="map-step-3.svg" alt="Swiss cities cocaine data complete" class="map-overlay" id="map-3">
+            </div>
+            <p class="map-caption">Bubble size reflects average daily cocaine load per 1,000 inhabitants. Source: European Union Drugs Agency.</p>
+        </div>
+
+
+    </div>
+</div>
+
+<div class="body-section" style="padding-top: 0;">
+<div class="content">
+
+    <hr class="divider">
+
+    <h2>Police records tell a different story</h2>
+
+    <p>Turn from the sewers to the police stations, and Switzerland looks like a very different country.</p>
+
+    <p>According to <a href="https://www.bfs.admin.ch/news/de/2026-0089">Swiss Federal Statistical Office data</a>, police recorded around 44,000 drug-related offences in 2025. In 2009, the figure stood at more than 85,000. That is a fall of roughly 48 percent — sustained over more than a decade, even as wastewater data shows consumption holding steady or rising.</p>
+
+    <iframe title="Drug offences in Switzerland have almost halved since 2009" aria-label="Line chart" id="datawrapper-chart-Ne41L" src="https://datawrapper.dwcdn.net/Ne41L/1/" scrolling="no" frameborder="0" height="439" data-external="1"></iframe>
+    <p class="chart-note">Police-recorded drug offences, Switzerland 2009–2025. Source: Swiss Federal Statistical Office.</p>
+
+    <p>The sharpest declines are in offences linked to personal possession and consumption — categories most directly shaped by enforcement priorities. This is a crucial clue: it suggests the drop reflects a change in how Swiss authorities police drug use, not necessarily how much drug use is happening.</p>
+
+    <div class="pullquote">
+        "The two datasets measure different things. Wastewater captures what people consume. Police statistics capture what authorities choose to pursue."
+    </div>
+
+    <hr class="divider">
+
+    <h2>The typical drug suspect has changed</h2>
+
+    <p>The most revealing shift in the police data is not the total number of offences, but who is being recorded.</p>
+
+    <p>In 2009, people aged 20 to 24 made up nearly a quarter of all suspected drug offenders. By 2025, their share had fallen to around 15 percent. Over the same period, the share of suspects aged 50 to 59 more than tripled — rising from under 2 percent to nearly 8 percent.</p>
+
+    <iframe title="Drug offences among young people have plummeted in Switzerland" aria-label="Small multiple line chart" id="datawrapper-chart-nflsc" src="https://datawrapper.dwcdn.net/nflsc/3/" scrolling="no" frameborder="0" height="304" data-external="1"></iframe>
+    <p class="chart-note">Share of suspected drug offenders by age group, Switzerland 2009–2025. Source: Swiss Federal Statistical Office.</p>
+
+    <p>This is not simply an ageing population effect. The shift is too pronounced, and too concentrated in the police-recorded data, to be explained by demographics alone. It likely reflects a combination of factors: changing enforcement patterns, generational differences in drug use, and possibly a shift in how younger people's drug activity comes to police attention — or doesn't.</p>
+
+    <hr class="divider">
+
+    <h2>Reading the paradox</h2>
+
+    <p>Put the two datasets side by side and the paradox sharpens. Wastewater signals remain high — Switzerland is still one of Europe's larger cocaine-consuming countries by this measure. But the criminal justice footprint of that consumption has contracted substantially.</p>
+
+    <p>What the data cannot tell us is why, with any certainty. Decriminalisation trends, shifting enforcement resources, changes in how offences are classified, a genuine reduction in youth drug use — any or all of these could be contributing.</p>
+
+
+</div>
+</div>
+
+<!-- ── Footer ── -->
+<div class="footer">
+    <div class="content">
+        <p>Sources: European Union Drugs Agency, Wastewater Analysis and Drugs in Europe (SCORE network); Swiss Federal Statistical Office, Police Crime Statistics (PKS) 2025.</p>
+        <p style="margin-top: 0.5em;">Analysis and reporting by Anielle Peterhans.</p>
+    </div>
+</div>
+
+<script type="text/javascript">
+    /* Datawrapper iframe resize */
+    (function () {
+        window.addEventListener("message", function (e) {
+            if (e.data["datawrapper-height"] !== undefined) {
+                var iframes = document.querySelectorAll("iframe");
+                for (var chartId in e.data["datawrapper-height"]) {
+                    for (var i = 0; i < iframes.length; i++) {
+                        if (iframes[i].contentWindow === e.source) {
+                            iframes[i].style.height = e.data["datawrapper-height"][chartId] + "px";
+                        }
+                    }
+                }
+            }
+        });
+    })();
+
+    /* Scrollytelling */
+    (function () {
+        var section = document.querySelector(".scrolly-triggers");
+        var map2 = document.getElementById("map-2");
+        var map3 = document.getElementById("map-3");
+
+        function update() {
+            var rect = section.getBoundingClientRect();
+            var total = section.offsetHeight - window.innerHeight;
+            var scrolled = -rect.top;
+            var progress = Math.max(0, Math.min(1, scrolled / total));
+
+            map2.classList.toggle("visible", progress >= 0.33);
+            map3.classList.toggle("visible", progress >= 0.66);
+        }
+
+        window.addEventListener("scroll", update, { passive: true });
+        update();
+    })();
+</script>
+
+</body>
+</html>
