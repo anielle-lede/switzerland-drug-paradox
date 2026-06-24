@@ -1,0 +1,449 @@
+Offence,Cases,Offences_total,Attempts,Solved,Suspects_total,Legal_entities,Natural_persons,Male,Female,Gender_unknown,Under_10,Age_10_14,Age_15_17,Age_18_19,Age_20_24,Age_25_29,Age_30_34,Age_35_39,Age_40_49,Age_50_59,Age_60_69,Age_70_plus,Age_unknown,Swiss,Foreign,Foreign_residents,Asylum_population,Other_foreigners,Year
+Gesamttotal,27331.0,44228.0,39.0,42490.0,20554.0,5.0,20549.0,17883,2666,0,1,166,1400,1126,3066,3287,3144,2711,3581,1585,409,72,1,9007,11542,5604,994,4944,2025
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung",24141.0,32378.0,7.0,31672.0,18143.0,2.0,18141.0,15795,2346,0,0,157,1332,1012,2674,2835,2775,2386,3193,1385,338,53,1,8197,9944,5056,934,3954,2025
+Konsum von Betäubungsmitteln,18268.0,19236.0,5.0,19224.0,14705.0,0.0,14705.0,12908,1797,0,0,136,1143,837,2219,2333,2286,1939,2492,1051,234,35,0,6709,7996,4226,745,3025,2025
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",154.0,162.0,1.0,160.0,158.0,0.0,158.0,138,20,0,0,0,2,6,7,16,26,27,43,26,3,2,0,127,31,27,2,2,2025
+"lagern, versenden, befördern, einführen, ausführen oder durchführen, zum Eigenkonsum",1245.0,1257.0,1.0,1198.0,1133.0,0.0,1133.0,875,258,0,0,3,24,49,140,166,162,166,231,114,63,14,1,505,628,261,22,345,2025
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",11583.0,11723.0,0.0,11090.0,8829.0,2.0,8827.0,7735,1092,0,0,84,755,470,1226,1327,1321,1131,1591,722,177,22,1,3885,4942,2297,541,2104,2025
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung ",6769.0,11363.0,31.0,10343.0,6100.0,5.0,6095.0,5388,707,0,1,39,339,381,977,1010,914,767,1029,471,142,25,0,2465,3630,1535,266,1829,2025
+davon Vergehen,5837.0,8932.0,29.0,7999.0,5086.0,3.0,5083.0,4495,588,0,1,36,327,348,802,836,762,592,850,388,118,23,0,2176,2907,1262,249,1396,2025
+"anbauen, herstellen oder anders erzeugen",235.0,289.0,3.0,279.0,278.0,0.0,278.0,253,25,0,0,2,5,1,24,36,47,54,72,28,8,1,0,210,68,57,3,8,2025
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",975.0,1008.0,3.0,859.0,858.0,2.0,856.0,700,156,0,0,1,28,31,118,148,135,116,154,83,33,9,0,351,505,195,14,296,2025
+"veräussern, verordnen, andern verschaffen, in Verkehr bringen",2990.0,3361.0,23.0,3265.0,2900.0,1.0,2899.0,2591,308,0,0,28,214,227,482,481,434,333,440,198,52,10,0,1212,1687,704,151,832,2025
+"besitzen, aufbewahren, erwerben, anders erlangen",3995.0,4179.0,0.0,3502.0,3316.0,0.0,3316.0,2978,338,0,1,14,196,233,569,545,497,366,573,234,72,16,0,1395,1921,804,175,942,2025
+illegalen Betäubungsmittelhandel finanzieren oder Finanzierung vermitteln,17.0,19.0,0.0,19.0,20.0,0.0,20.0,13,7,0,0,0,2,0,8,1,1,1,6,0,1,0,0,11,9,9,0,0,2025
+"öffentlich auffordern, öffentlich Gelegenheit zu Erwerb oder Konsum von Betäubungsmittel bekannt geben",11.0,12.0,0.0,12.0,12.0,0.0,12.0,12,0,0,0,0,0,2,4,1,2,2,1,0,0,0,0,1,11,4,2,5,2025
+"Betäubungsmittel einer Person unter 18 Jahren ohne medizinische Indikation, anbieten, abgeben oder anders zugänglich machen",58.0,59.0,0.0,58.0,58.0,0.0,58.0,54,4,0,0,2,18,8,9,4,5,5,3,3,0,1,0,29,29,23,5,1,2025
+übrige Vergehen Handel (Art. 20),5.0,5.0,0.0,5.0,5.0,0.0,5.0,4,1,0,0,0,0,0,0,0,1,0,3,0,0,1,0,2,3,x,x,x,2025
+davon Verbrechen,1229.0,2431.0,2.0,2344.0,1383.0,2.0,1381.0,1231,150,0,0,3,23,59,240,233,218,212,253,112,26,2,0,480,901,376,30,495,2025
+"anbauen, herstellen oder anders erzeugen",34.0,67.0,0.0,67.0,67.0,0.0,67.0,61,6,0,0,0,0,0,6,10,14,13,15,7,2,0,0,38,29,18,0,11,2025
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",229.0,269.0,0.0,260.0,248.0,0.0,248.0,210,38,0,0,0,3,4,33,56,40,41,47,20,4,0,0,56,192,56,5,131,2025
+"veräussern, verordnen, andern verschaffen, in Verkehr bringen",969.0,1277.0,2.0,1221.0,1109.0,0.0,1109.0,998,111,0,0,2,18,53,199,175,167,167,216,90,20,2,0,398,711,322,25,364,2025
+"besitzen, aufbewahren, erwerben, anders erlangen",725.0,791.0,0.0,769.0,842.0,2.0,840.0,750,90,0,0,3,13,33,147,142,134,132,151,66,19,0,0,285,555,203,11,341,2025
+illegalen Betäubungsmittelhandel finanzieren oder Finanzierung vermitteln,13.0,15.0,0.0,15.0,15.0,0.0,15.0,13,2,0,0,0,2,1,0,2,2,5,2,1,0,0,0,5,10,6,0,4,2025
+"öffentlich auffordern, öffentlich Gelegenheit zu Erwerb oder Konsum von Betäubungsmittel bekannt geben",7.0,7.0,0.0,7.0,7.0,0.0,7.0,7,0,0,0,0,0,0,1,1,2,1,2,0,0,0,0,1,6,2,0,4,2025
+"in Ausbildungsstätten vorwiegend für Jugendliche gewerbsmässig Betäubungsmittel anbieten, abgeben oder auf andere Weise zugänglich machen",2.0,2.0,0.0,2.0,2.0,0.0,2.0,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,2025
+übrige Verbrechen Handel (Art. 20),2.0,3.0,0.0,3.0,2.0,0.0,2.0,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,2025
+Total: übrige Straftaten gegen das BetmG,458.0,487.0,1.0,475.0,409.0,1.0,408.0,367,41,0,0,3,25,47,76,67,42,38,71,28,10,1,0,185,223,77,34,112,2025
+übrige Übertretungen,25.0,34.0,0.0,25.0,24.0,0.0,24.0,17,7,0,0,0,1,0,3,5,4,3,6,1,1,0,0,12,12,4,1,7,2025
+übrige Vergehen,434.0,453.0,1.0,450.0,387.0,1.0,386.0,351,35,0,0,3,24,47,74,63,38,35,65,27,9,1,0,174,212,73,33,106,2025
+X: Entfällt aus Datenschutzgründen (Totalwerte 1-3),,,,,,,,,,,,,,,,,,,,,,,,,,,,,2025
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, Ci, diplomatisches Personal, internationale Funktionär/innen
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, legal anwesende Personen ohne ausweispflichtigen Status (Tourist/innen, Besucher/innen), im Meldeverfahren für Kurzerwerbstätigkeit (Staatsangehörige / Angestellte von Unternehmen EU/EFTA), illegal anwesende Personen ohne Asylverfahren, illegal anwesende Asylsuchende mit negativem Asylentscheid und Ausreisepflicht, Rückweisung an der Grenze, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2025
+Stand der Datenbank: 13.02.2026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2025
+© BFS 2026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2025
+Gesamttotal,29040.0,48208.0,57.0,46417.0,21901.0,3.0,21898.0,19031,2867,0,0,211,1788,1314,3436,3479,3221,2659,3785,1568,363,73,1,9854,12044,5792,1183,5069,2024
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung",26065.0,35994.0,21.0,34875.0,19437.0,1.0,19436.0,16867,2569,0,0,195,1701,1179,3032,3028,2843,2361,3331,1396,311,58,1,9048,10388,5241,1100,4047,2024
+Konsum von Betäubungsmitteln,20188.0,21221.0,14.0,21217.0,16206.0,0.0,16206.0,14123,2083,0,0,167,1505,983,2568,2582,2355,1964,2736,1081,230,35,0,7624,8582,4450,914,3218,2024
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",304.0,316.0,1.0,307.0,299.0,0.0,299.0,252,47,0,0,0,8,7,32,40,47,38,74,41,9,3,0,221,78,73,0,5,2024
+"lagern, versenden, befördern, einführen, ausführen oder durchführen, zum Eigenkonsum",1559.0,1583.0,6.0,1493.0,1436.0,0.0,1436.0,1101,335,0,0,3,40,62,203,194,230,185,288,155,52,23,1,720,716,371,20,325,2024
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",12732.0,12874.0,0.0,11858.0,9556.0,1.0,9555.0,8294,1261,0,0,96,1003,595,1399,1355,1337,1165,1653,765,159,28,0,4384,5171,2409,622,2140,2024
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung ",6734.0,11661.0,35.0,10997.0,6457.0,3.0,6454.0,5756,698,0,0,47,421,430,1078,1078,926,764,1092,476,118,24,0,2644,3810,1564,298,1948,2024
+davon Vergehen,5760.0,9077.0,32.0,8508.0,5351.0,3.0,5348.0,4791,557,0,0,47,413,397,888,878,721,611,871,405,97,20,0,2313,3035,1303,283,1449,2024
+"anbauen, herstellen oder anders erzeugen",261.0,335.0,0.0,331.0,321.0,0.0,321.0,293,28,0,0,0,3,6,31,50,54,59,70,36,9,3,0,221,100,77,1,22,2024
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",844.0,874.0,8.0,791.0,787.0,2.0,785.0,665,120,0,0,3,21,42,111,144,128,95,165,54,14,8,0,286,499,198,5,296,2024
+"veräussern, verordnen, andern verschaffen, in Verkehr bringen",3225.0,3660.0,23.0,3538.0,3127.0,1.0,3126.0,2825,301,0,0,40,287,242,549,506,395,371,443,232,56,5,0,1359,1767,770,165,832,2024
+"besitzen, aufbewahren, erwerben, anders erlangen",3883.0,4082.0,0.0,3728.0,3521.0,2.0,3519.0,3195,324,0,0,8,229,258,615,616,460,400,587,266,63,17,0,1509,2010,852,209,949,2024
+illegalen Betäubungsmittelhandel finanzieren oder Finanzierung vermitteln,9.0,10.0,0.0,10.0,12.0,0.0,12.0,11,1,0,0,0,0,1,3,2,5,0,1,0,0,0,0,5,7,1,0,6,2024
+"öffentlich auffordern, öffentlich Gelegenheit zu Erwerb oder Konsum von Betäubungsmittel bekannt geben",7.0,7.0,0.0,7.0,7.0,0.0,7.0,6,1,0,0,0,0,3,1,1,1,0,1,0,0,0,0,6,1,X,X,X,2024
+"Betäubungsmittel einer Person unter 18 Jahren ohne medizinische Indikation, anbieten, abgeben oder anders zugänglich machen",96.0,100.0,1.0,96.0,94.0,0.0,94.0,77,17,0,0,3,37,21,15,5,2,3,1,4,2,1,0,61,33,24,5,4,2024
+übrige Vergehen Handel (Art. 20),9.0,9.0,0.0,7.0,7.0,0.0,7.0,6,1,0,0,0,0,0,1,2,2,0,1,0,1,0,0,2,5,5,0,0,2024
+davon Verbrechen,1284.0,2584.0,3.0,2489.0,1503.0,0.0,1503.0,1327,176,0,0,0,18,55,247,262,265,214,296,112,28,6,0,532,971,360,21,590,2024
+"anbauen, herstellen oder anders erzeugen",77.0,125.0,0.0,122.0,116.0,0.0,116.0,108,8,0,0,0,0,1,17,19,31,18,19,8,3,0,0,58,58,28,1,29,2024
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",243.0,299.0,3.0,282.0,273.0,0.0,273.0,228,45,0,0,0,0,6,47,54,50,40,50,17,8,1,0,73,200,52,1,147,2024
+"veräussern, verordnen, andern verschaffen, in Verkehr bringen",1004.0,1327.0,0.0,1270.0,1193.0,0.0,1193.0,1064,129,0,0,0,13,47,198,205,219,172,230,84,20,5,0,433,760,306,19,435,2024
+"besitzen, aufbewahren, erwerben, anders erlangen",713.0,819.0,0.0,801.0,864.0,0.0,864.0,777,87,0,0,0,11,35,151,133,156,119,163,70,20,6,0,262,602,189,12,401,2024
+illegalen Betäubungsmittelhandel finanzieren oder Finanzierung vermitteln,3.0,5.0,0.0,5.0,5.0,0.0,5.0,3,2,0,0,0,0,0,0,1,2,2,0,0,0,0,0,2,3,X,X,X,2024
+"öffentlich auffordern, öffentlich Gelegenheit zu Erwerb oder Konsum von Betäubungsmittel bekannt geben",6.0,6.0,0.0,6.0,6.0,0.0,6.0,6,0,0,0,0,1,1,1,2,0,0,1,0,0,0,0,3,3,X,X,X,2024
+"in Ausbildungsstätten vorwiegend für Jugendliche gewerbsmässig Betäubungsmittel anbieten, abgeben oder auf andere Weise zugänglich machen",2.0,2.0,0.0,2.0,2.0,0.0,2.0,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,2024
+übrige Verbrechen Handel (Art. 20),1.0,1.0,0.0,1.0,1.0,0.0,1.0,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,2024
+Total: übrige Straftaten gegen das BetmG,510.0,553.0,1.0,545.0,444.0,0.0,444.0,409,35,0,0,1,27,35,83,70,45,52,77,40,11,3,0,201,243,82,38,123,2024
+übrige Übertretungen,24.0,29.0,0.0,24.0,24.0,0.0,24.0,20,4,0,0,0,2,5,1,2,0,5,4,5,0,0,0,8,16,8,3,5,2024
+übrige Vergehen,486.0,524.0,1.0,521.0,420.0,0.0,420.0,389,31,0,0,1,25,30,82,68,45,47,73,35,11,3,0,193,227,74,35,118,2024
+X: Entfällt aus Datenschutzgründen (Totalwerte 1-3),,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, Ci, diplomatisches Personal, internationale Funktionär/innen
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, legal anwesende Personen ohne ausweispflichtigen Status (Tourist/innen, Besucher/innen), im Meldeverfahren für Kurzerwerbstätigkeit (Staatsangehörige / Angestellte von Unternehmen EU/EFTA), illegal anwesende Personen ohne Asylverfahren, illegal anwesende Asylsuchende mit negativem Asylentscheid und Ausreisepflicht, Rückweisung an der Grenze, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024
+Stand der Datenbank: 14.02.2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024
+© BFS 2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024
+Gesamttotal,32199.0,54458.0,58.0,52108.0,24246.0,1.0,24245.0,21070.0,3175.0,0.0,0.0,239.0,2179.0,1661.0,4088.0,3932.0,3521.0,2813.0,3830.0,1551.0,373.0,56.0,2.0,11515.0,12730.0,6076,1220,5434,2023
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung",28890.0,42083.0,10.0,40662.0,21909.0,1.0,21908.0,19009.0,2899.0,0.0,0.0,225.0,2085.0,1515.0,3704.0,3507.0,3164.0,2536.0,3431.0,1377.0,316.0,48.0,0.0,10706.0,11202.0,5581,1158,4463,2023
+Konsum von Betäubungsmitteln,21733.0,22656.0,7.0,22636.0,17649.0,0.0,17649.0,15363.0,2286.0,0.0,0.0,199.0,1867.0,1244.0,2941.0,2768.0,2553.0,2046.0,2717.0,1046.0,230.0,38.0,0.0,9010.0,8639.0,4674,918,3047,2023
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",357.0,374.0,3.0,370.0,363.0,0.0,363.0,303.0,60.0,0.0,0.0,1.0,11.0,6.0,40.0,56.0,59.0,47.0,80.0,46.0,16.0,1.0,0.0,272.0,91.0,79,2,10,2023
+"lagern, versenden, befördern, einführen, ausführen oder durchführen, zum Eigenkonsum",2620.0,2656.0,0.0,2492.0,2383.0,0.0,2383.0,1940.0,443.0,0.0,0.0,3.0,38.0,130.0,429.0,434.0,375.0,293.0,412.0,180.0,72.0,17.0,0.0,990.0,1393.0,491,13,889,2023
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",16287.0,16397.0,0.0,15164.0,12252.0,1.0,12251.0,10618.0,1633.0,0.0,0.0,114.0,1247.0,842.0,2007.0,1919.0,1680.0,1416.0,1961.0,840.0,201.0,24.0,0.0,5853.0,6398.0,3001,671,2726,2023
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung ",7230.0,12024.0,47.0,11103.0,6625.0,1.0,6624.0,5893.0,731.0,0.0,0.0,61.0,537.0,465.0,1137.0,1037.0,930.0,762.0,1088.0,458.0,133.0,14.0,2.0,2927.0,3697.0,1542,250,1905,2023
+davon Vergehen,6323.0,9662.0,34.0,8841.0,5613.0,1.0,5612.0,4999.0,613.0,0.0,0.0,59.0,526.0,413.0,994.0,862.0,767.0,618.0,874.0,377.0,109.0,11.0,2.0,2638.0,2974.0,1295,228,1451,2023
+"anbauen, herstellen oder anders erzeugen",310.0,371.0,0.0,366.0,356.0,0.0,356.0,324.0,32.0,0.0,0.0,1.0,4.0,8.0,32.0,56.0,60.0,60.0,83.0,39.0,13.0,0.0,0.0,264.0,92.0,81,0,11,2023
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",1015.0,1044.0,4.0,915.0,887.0,0.0,887.0,762.0,125.0,0.0,0.0,3.0,24.0,50.0,175.0,166.0,137.0,109.0,141.0,57.0,22.0,3.0,0.0,296.0,591.0,176,2,413,2023
+"veräussern, verordnen, andern verschaffen, in Verkehr bringen",3335.0,3725.0,28.0,3600.0,3243.0,1.0,3242.0,2927.0,315.0,0.0,0.0,37.0,349.0,280.0,592.0,506.0,394.0,318.0,472.0,230.0,54.0,8.0,2.0,1624.0,1618.0,781,124,713,2023
+"besitzen, aufbewahren, erwerben, anders erlangen",4184.0,4381.0,0.0,3828.0,3593.0,1.0,3592.0,3235.0,357.0,0.0,0.0,26.0,302.0,260.0,661.0,534.0,522.0,399.0,567.0,234.0,76.0,9.0,2.0,1672.0,1920.0,802,159,959,2023
+illegalen Betäubungsmittelhandel finanzieren oder Finanzierung vermitteln,5.0,6.0,0.0,5.0,5.0,0.0,5.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,3.0,2.0,X,X,X,2023
+"öffentlich auffordern, öffentlich Gelegenheit zu Erwerb oder Konsum von Betäubungsmittel bekannt geben",7.0,7.0,0.0,6.0,6.0,0.0,6.0,4.0,2.0,0.0,0.0,0.0,3.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,X,X,X,2023
+"Betäubungsmittel einer Person unter 18 Jahren ohne medizinische Indikation, anbieten, abgeben oder anders zugänglich machen",110.0,114.0,1.0,110.0,105.0,0.0,105.0,92.0,13.0,0.0,0.0,10.0,39.0,13.0,17.0,4.0,6.0,8.0,6.0,1.0,1.0,0.0,0.0,68.0,37.0,30,4,3,2023
+übrige Vergehen Handel (Art. 20),13.0,14.0,1.0,11.0,10.0,0.0,10.0,4.0,6.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,3.0,2.0,1.0,0.0,0.0,0.0,5.0,5.0,5,0,0,2023
+davon Verbrechen,1201.0,2362.0,13.0,2262.0,1385.0,0.0,1385.0,1232.0,153.0,0.0,0.0,2.0,18.0,66.0,209.0,220.0,234.0,190.0,292.0,113.0,38.0,3.0,0.0,474.0,911.0,347,26,538,2023
+"anbauen, herstellen oder anders erzeugen",48.0,94.0,3.0,94.0,84.0,0.0,84.0,81.0,3.0,0.0,0.0,0.0,0.0,2.0,6.0,13.0,14.0,17.0,25.0,6.0,1.0,0.0,0.0,37.0,47.0,23,1,23,2023
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",177.0,218.0,8.0,197.0,188.0,0.0,188.0,160.0,28.0,0.0,0.0,0.0,2.0,5.0,29.0,29.0,42.0,27.0,35.0,16.0,3.0,0.0,0.0,39.0,149.0,44,2,103,2023
+"veräussern, verordnen, andern verschaffen, in Verkehr bringen",967.0,1256.0,2.0,1207.0,1131.0,0.0,1131.0,1003.0,128.0,0.0,0.0,2.0,10.0,53.0,174.0,179.0,195.0,157.0,232.0,93.0,34.0,2.0,0.0,408.0,723.0,285,18,420,2023
+"besitzen, aufbewahren, erwerben, anders erlangen",690.0,762.0,0.0,732.0,812.0,0.0,812.0,737.0,75.0,0.0,0.0,1.0,7.0,50.0,133.0,130.0,132.0,111.0,165.0,60.0,20.0,3.0,0.0,237.0,575.0,174,16,385,2023
+illegalen Betäubungsmittelhandel finanzieren oder Finanzierung vermitteln,4.0,5.0,0.0,5.0,5.0,0.0,5.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,2.0,X,X,X,2023
+"öffentlich auffordern, öffentlich Gelegenheit zu Erwerb oder Konsum von Betäubungsmittel bekannt geben",19.0,27.0,0.0,27.0,27.0,0.0,27.0,26.0,1.0,0.0,0.0,0.0,2.0,3.0,1.0,4.0,3.0,3.0,8.0,3.0,0.0,0.0,0.0,3.0,24.0,8,1,15,2023
+"in Ausbildungsstätten vorwiegend für Jugendliche gewerbsmässig Betäubungsmittel anbieten, abgeben oder auf andere Weise zugänglich machen",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,2023
+übrige Verbrechen Handel (Art. 20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,2023
+Total: übrige Straftaten gegen das BetmG,339.0,351.0,1.0,343.0,287.0,0.0,287.0,267.0,20.0,0.0,0.0,0.0,18.0,31.0,53.0,36.0,36.0,25.0,53.0,31.0,4.0,0.0,0.0,141.0,146.0,54,27,65,2023
+übrige Übertretungen,28.0,28.0,0.0,23.0,24.0,0.0,24.0,21.0,3.0,0.0,0.0,0.0,0.0,4.0,5.0,3.0,1.0,0.0,6.0,4.0,1.0,0.0,0.0,15.0,9.0,4,3,2,2023
+übrige Vergehen,311.0,323.0,1.0,320.0,266.0,0.0,266.0,249.0,17.0,0.0,0.0,0.0,19.0,27.0,48.0,34.0,35.0,25.0,48.0,27.0,3.0,0.0,0.0,128.0,138.0,50,25,63,2023
+X: Entfällt aus Datenschutzgründen (Totalwerte 1-3),,,,,,,,,,,,,,,,,,,,,,,,,,,,,2023
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, Ci, diplomatisches Personal, internationale Funktionär/innen
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, legal anwesende Personen ohne ausweispflichtigen Status (Tourist/innen, Besucher/innen), im Meldeverfahren für Kurzerwerbstätigkeit (Staatsangehörige / Angestellte von Unternehmen EU/EFTA), illegal anwesende Personen ohne Asylverfahren, illegal anwesende Asylsuchende mit negativem Asylentscheid und Ausreisepflicht, Rückweisung an der Grenze, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2023
+Stand der Datenbank: 15.02.2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2023
+© BFS 2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2023
+Gesamttotal,32897.0,55304.0,44.0,53019.0,25350.0,3.0,25347.0,22079,3268,0,2,292,2482,1877,4548,4023,3576,2884,3642,1620,361,36,4,12526,12821,6327,924,5570,2022
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung",29328.0,42835.0,15.0,41531.0,22961.0,2.0,22959.0,19964,2995,0,2,283,2384,1741,4112,3590,3212,2591,3265,1444,304,29,2,11728,11231,5814,873,4544,2022
+Konsum von Betäubungsmitteln,22078.0,23009.0,10.0,22994.0,18412.0,0.0,18412.0,16019,2393,0,2,258,2172,1481,3181,2778,2571,2038,2558,1140,212,20,1,9952,8460,4915,706,2839,2022
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",356.0,365.0,1.0,363.0,353.0,1.0,352.0,301,51,0,0,1,12,12,39,49,54,37,80,52,13,3,0,274,78,68,3,7,2022
+"lagern, versenden, befördern, einführen, ausführen oder durchführen, zum Eigenkonsum",2664.0,2687.0,4.0,2604.0,2488.0,1.0,2487.0,2110,377,0,0,2,36,128,513,497,405,301,354,165,69,15,2,872,1615,466,11,1138,2022
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",16650.0,16774.0,0.0,15570.0,12900.0,2.0,12898.0,11292,1606,0,1,151,1449,919,2296,1990,1772,1434,1867,820,182,15,2,6417,6481,3078,529,2874,2022
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung ",7412.0,12264.0,29.0,11289.0,6773.0,3.0,6770.0,5995,775,0,0,65,507,461,1218,1104,959,783,1013,524,119,14,3,3107,3663,1566,187,1910,2022
+davon Vergehen,6428.0,9933.0,29.0,9055.0,5712.0,3.0,5709.0,5042,667,0,0,65,500,421,1026,906,785,629,846,425,92,11,3,2791,2918,1330,171,1417,2022
+"anbauen, herstellen oder anders erzeugen",357.0,434.0,1.0,428.0,413.0,2.0,411.0,367,44,0,0,0,4,4,32,77,79,70,80,50,14,1,0,303,108,83,4,21,2022
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",1137.0,1174.0,3.0,1028.0,1001.0,2.0,999.0,863,136,0,0,3,24,49,190,208,161,118,157,62,24,2,1,392,607,196,8,403,2022
+"veräussern, verordnen, andern verschaffen, in Verkehr bringen",3510.0,3882.0,25.0,3749.0,3407.0,1.0,3406.0,3032,374,0,0,45,345,290,619,504,443,362,482,263,46,6,1,1699,1707,841,112,754,2022
+"besitzen, aufbewahren, erwerben, anders erlangen",4125.0,4314.0,0.0,3724.0,3539.0,1.0,3538.0,3129,409,0,0,21,289,257,651,584,474,383,538,274,57,8,2,1796,1742,795,108,839,2022
+illegalen Betäubungsmittelhandel finanzieren oder Finanzierung vermitteln,14.0,16.0,0.0,15.0,15.0,0.0,15.0,13,2,0,0,1,0,0,3,1,1,3,5,0,1,0,0,6,9,4,0,5,2022
+"öffentlich auffordern, öffentlich Gelegenheit zu Erwerb oder Konsum von Betäubungsmittel bekannt geben",5.0,5.0,0.0,5.0,5.0,0.0,5.0,5,0,0,0,0,3,0,0,0,1,0,1,0,0,0,0,3,2,X,X,X,2022
+"Betäubungsmittel einer Person unter 18 Jahren ohne medizinische Indikation, anbieten, abgeben oder anders zugänglich machen",94.0,106.0,0.0,104.0,103.0,0.0,103.0,95,8,0,0,9,46,15,16,6,0,6,4,1,0,0,0,75,28,22,4,2,2022
+übrige Vergehen Handel (Art. 20),2.0,2.0,0.0,2.0,2.0,0.0,2.0,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,2022
+davon Verbrechen,1272.0,2331.0,0.0,2234.0,1406.0,0.0,1406.0,1265,141,0,0,0,11,52,248,269,230,204,236,126,27,3,0,479,927,319,21,587,2022
+"anbauen, herstellen oder anders erzeugen",64.0,82.0,0.0,81.0,82.0,0.0,82.0,77,5,0,0,0,0,0,7,24,13,16,10,9,3,0,0,40,42,25,1,16,2022
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",170.0,198.0,0.0,184.0,179.0,0.0,179.0,153,26,0,0,0,1,7,26,33,26,22,39,18,6,1,0,38,141,31,1,109,2022
+"veräussern, verordnen, andern verschaffen, in Verkehr bringen",1014.0,1240.0,0.0,1189.0,1137.0,0.0,1137.0,1030,107,0,0,0,11,43,211,216,186,154,193,102,19,2,0,398,739,267,16,456,2022
+"besitzen, aufbewahren, erwerben, anders erlangen",705.0,788.0,0.0,757.0,788.0,0.0,788.0,706,82,0,0,0,5,33,133,146,135,121,119,79,15,2,0,222,566,175,10,381,2022
+illegalen Betäubungsmittelhandel finanzieren oder Finanzierung vermitteln,7.0,7.0,0.0,7.0,7.0,0.0,7.0,5,2,0,0,0,0,1,1,1,1,1,1,0,1,0,0,4,3,X,X,X,2022
+"öffentlich auffordern, öffentlich Gelegenheit zu Erwerb oder Konsum von Betäubungsmittel bekannt geben",14.0,14.0,0.0,14.0,14.0,0.0,14.0,13,1,0,0,0,0,1,2,4,1,4,1,1,0,0,0,1,13,4,0,9,2022
+"in Ausbildungsstätten vorwiegend für Jugendliche gewerbsmässig Betäubungsmittel anbieten, abgeben oder auf andere Weise zugänglich machen",2.0,2.0,0.0,2.0,2.0,0.0,2.0,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,2022
+übrige Verbrechen Handel (Art. 20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2022
+Total: übrige Straftaten gegen das BetmG,200.0,205.0,0.0,199.0,168.0,0.0,168.0,146,22,0,0,2,19,11,27,26,26,11,24,16,5,0,1,99,69,28,13,28,2022
+übrige Übertretungen,20.0,20.0,0.0,16.0,15.0,0.0,15.0,12,3,0,0,1,2,2,3,1,2,1,3,0,0,0,0,7,8,6,0,2,2022
+übrige Vergehen,181.0,185.0,0.0,183.0,154.0,0.0,154.0,135,19,0,0,1,17,9,24,25,24,11,21,16,5,0,1,93,61,22,13,26,2022
+X: Entfällt aus Datenschutzgründen (Totalwerte 1-3),,,,,,,,,,,,,,,,,,,,,,,,,,,,,2022
+"Anmerkungen:
+- 2021: Aufgrund eines seltenen, bisher unbekannten systembedingten Fehlers, wurden in den vergangenen Jahren einzelne Fälle in der Statistik in mehreren Jahren gezählt. Der Fehler wurde im Januar 2022 festgestellt und daraufhin die Anzahl Straftaten gegen die Gesetze StGB, BetmG und AIG geprüft. Die Prüfung hat ergeben, dass die Differenzen für das Total der einzelnen Gesetze aufgrund der doppelt gezählten Fälle in den vergangenen Jahren minim waren (0.0 bis 0.3%). Für die Statistik 2021 konnte der Fehler behoben werden. 
+- 2021/2022: Aufgrund eines technischen Fehlers im Kanton Genf in der zweiten Jahreshälfte konnten Fälle aus dem Jahr 2021 nicht übermittelt werden. Diese werden in der PKS 2022 erscheinen (ca. 450 BetmG Straftaten).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2022
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, diplomatisches Personal, internationale Funktionäre/innen, Ausweis Ci 
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, Touristen/innen / legal Anwesende ohne ausweispflichtigen Status, Asylsuchende mit Nichteintretensentscheid, abgewiesene Asylsuchende mit Sozialhilfestopp, Rückweisung an der Grenze, illegaler Aufenthalt, im Meldeverfahren, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2022
+Stand der Datenbank: 16.02.2023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2022
+© BFS 2023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2022
+Gesamttotal,35895.0,60887.0,65.0,58697.0,27749.0,3.0,27746.0,23973.0,3773.0,0.0,0.0,344.0,2953.0,2237.0,5189.0,4436.0,3658.0,3143.0,3624.0,1762.0,349.0,46.0,5.0,14683.0,13063.0,6874,780,5409,2021
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung",32024.0,46823.0,13.0,45532.0,25081.0,1.0,25080.0,21707.0,3373.0,0.0,0.0,326.0,2872.0,2097.0,4660.0,3927.0,3270.0,2796.0,3256.0,1562.0,276.0,34.0,4.0,13714.0,11366.0,6319,726,4321,2021
+Konsum von Betäubungsmitteln4,25034.0,26188.0,8.0,26184.0,20636.0,0.0,20636.0,17865.0,2771.0,0.0,0.0,304.0,2600.0,1729.0,3771.0,3118.0,2644.0,2283.0,2676.0,1277.0,213.0,19.0,2.0,11862.0,8774.0,5445,613,2716,2021
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",518.0,539.0,3.0,526.0,515.0,0.0,515.0,443.0,72.0,0.0,0.0,0.0,19.0,13.0,63.0,67.0,77.0,83.0,97.0,72.0,20.0,4.0,0.0,407.0,108.0,97,2,9,2021
+"lagern, versenden, befördern, einführen, ausführen oder durchführen, zum Eigenkonsum",3103.0,3138.0,2.0,3053.0,2902.0,0.0,2902.0,2449.0,453.0,0.0,0.0,6.0,46.0,186.0,597.0,595.0,436.0,349.0,384.0,223.0,63.0,16.0,1.0,1242.0,1660.0,507,9,1144,2021
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",16820.0,16958.0,0.0,15769.0,13300.0,1.0,13299.0,11621.0,1678.0,0.0,0.0,146.0,1586.0,1072.0,2363.0,2056.0,1738.0,1484.0,1782.0,899.0,149.0,20.0,4.0,7003.0,6296.0,3171,379,2746,2021
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung ",8437.0,14005.0,52.0,13107.0,7818.0,3.0,7815.0,6766.0,1049.0,0.0,0.0,77.0,609.0,546.0,1499.0,1294.0,1049.0,941.0,1067.0,568.0,146.0,18.0,1.0,3820.0,3995.0,1841,182,1972,2021
+davon Vergehen,7345.0,11515.0,51.0,10700.0,6687.0,3.0,6684.0,5780.0,904.0,0.0,0.0,74.0,605.0,509.0,1296.0,1047.0,861.0,810.0,885.0,459.0,125.0,12.0,1.0,3462.0,3222.0,1572,168,1482,2021
+"anbauen, herstellen oder anders erzeugen",421.0,507.0,3.0,504.0,492.0,1.0,491.0,434.0,57.0,0.0,0.0,1.0,0.0,8.0,67.0,97.0,91.0,80.0,72.0,50.0,22.0,3.0,0.0,394.0,97.0,83,1,13,2021
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",1251.0,1293.0,6.0,1133.0,1089.0,2.0,1087.0,897.0,190.0,0.0,0.0,1.0,28.0,60.0,197.0,202.0,163.0,168.0,159.0,85.0,23.0,1.0,0.0,482.0,605.0,246,6,353,2021
+"veräussern, verordnen, andern verschaffen, in Verkehr bringen",4429.0,4911.0,39.0,4788.0,4317.0,0.0,4317.0,3756.0,561.0,0.0,0.0,59.0,450.0,347.0,885.0,661.0,536.0,476.0,542.0,277.0,74.0,10.0,0.0,2276.0,2041.0,1005,140,896,2021
+"besitzen, aufbewahren, erwerben, anders erlangen",4386.0,4617.0,0.0,4090.0,3875.0,3.0,3872.0,3377.0,495.0,0.0,0.0,28.0,293.0,301.0,736.0,611.0,507.0,481.0,549.0,269.0,87.0,9.0,1.0,1997.0,1875.0,900,94,881,2021
+illegalen Betäubungsmittelhandel finanzieren oder Finanzierung vermitteln,27.0,34.0,0.0,33.0,32.0,0.0,32.0,27.0,5.0,0.0,0.0,1.0,3.0,4.0,7.0,2.0,4.0,5.0,4.0,2.0,0.0,0.0,0.0,16.0,16.0,12,0,4,2021
+"öffentlich auffordern, öffentlich Gelegenheit zu Erwerb oder Konsum von Betäubungsmittel bekannt geben",13.0,13.0,1.0,13.0,13.0,0.0,13.0,11.0,2.0,0.0,0.0,0.0,3.0,1.0,4.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,7.0,6.0,6,0,0,2021
+"Betäubungsmittel einer Person unter 18 Jahren ohne medizinische Indikation, anbieten, abgeben oder anders zugänglich machen",135.0,136.0,2.0,135.0,133.0,0.0,133.0,119.0,14.0,0.0,0.0,6.0,61.0,24.0,22.0,6.0,2.0,5.0,5.0,2.0,0.0,0.0,0.0,93.0,40.0,34,4,2,2021
+übrige Vergehen Handel (Art. 20),4.0,4.0,0.0,4.0,4.0,0.0,4.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,4.0,0.0,0,0,0,2021
+davon Verbrechen,1435.0,2490.0,1.0,2407.0,1597.0,0.0,1597.0,1403.0,194.0,0.0,0.0,3.0,11.0,58.0,279.0,335.0,258.0,202.0,255.0,154.0,36.0,6.0,0.0,583.0,1014.0,389,19,606,2021
+"anbauen, herstellen oder anders erzeugen",64.0,97.0,0.0,97.0,110.0,0.0,110.0,104.0,6.0,0.0,0.0,0.0,0.0,1.0,12.0,35.0,17.0,14.0,20.0,9.0,2.0,0.0,0.0,71.0,39.0,30,0,9,2021
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",213.0,244.0,0.0,232.0,236.0,0.0,236.0,194.0,42.0,0.0,0.0,0.0,2.0,8.0,31.0,60.0,41.0,23.0,39.0,20.0,7.0,5.0,0.0,63.0,173.0,46,0,127,2021
+"veräussern, verordnen, andern verschaffen, in Verkehr bringen",1163.0,1382.0,1.0,1337.0,1295.0,0.0,1295.0,1154.0,141.0,0.0,0.0,1.0,6.0,49.0,228.0,259.0,210.0,169.0,207.0,133.0,31.0,2.0,0.0,481.0,814.0,316,17,481,2021
+"besitzen, aufbewahren, erwerben, anders erlangen",678.0,748.0,0.0,722.0,790.0,0.0,790.0,707.0,83.0,0.0,0.0,0.0,5.0,21.0,151.0,170.0,129.0,88.0,122.0,82.0,17.0,5.0,0.0,239.0,551.0,172,11,368,2021
+illegalen Betäubungsmittelhandel finanzieren oder Finanzierung vermitteln,4.0,4.0,0.0,4.0,4.0,0.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,3.0,X,X,X,2021
+"öffentlich auffordern, öffentlich Gelegenheit zu Erwerb oder Konsum von Betäubungsmittel bekannt geben",11.0,11.0,0.0,11.0,11.0,0.0,11.0,11.0,0.0,0.0,0.0,0.0,1.0,3.0,2.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,8.0,2,0,6,2021
+"in Ausbildungsstätten vorwiegend für Jugendliche gewerbsmässig Betäubungsmittel anbieten, abgeben oder auf andere Weise zugänglich machen",4.0,4.0,0.0,4.0,4.0,0.0,4.0,4.0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,X,X,X,2021
+übrige Verbrechen Handel (Art. 20),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,2021
+Total: übrige Straftaten gegen das BetmG,58.0,59.0,0.0,58.0,58.0,0.0,58.0,54.0,4.0,0.0,0.0,1.0,5.0,10.0,11.0,13.0,5.0,4.0,5.0,4.0,0.0,0.0,0.0,28.0,30.0,19,3,8,2021
+übrige Übertretungen,9.0,9.0,0.0,9.0,9.0,0.0,9.0,9.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,4.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,4.0,5.0,4,0,1,2021
+übrige Vergehen,49.0,50.0,0.0,49.0,49.0,0.0,49.0,45.0,4.0,0.0,0.0,1.0,4.0,9.0,11.0,9.0,4.0,3.0,4.0,4.0,0.0,0.0,0.0,24.0,25.0,15,3,7,2021
+X: Entfällt aus Datenschutzgründen (Totalwerte 1-3),,,,,,,,,,,,,,,,,,,,,,,,,,,,,2021
+"Anmerkungen:
+- 2021: Aufgrund eines seltenen, bisher unbekannten systembedingten Fehlers, wurden in den vergangenen Jahren einzelne Fälle in der Statistik in mehreren Jahren gezählt. Der Fehler wurde im Januar 2022 festgestellt und daraufhin die Anzahl Straftaten gegen die Gesetze StGB, BetmG und AIG geprüft. Die Prüfung hat ergeben, dass die Differenzen für das Total der einzelnen Gesetze aufgrund der doppelt gezählten Fälle in den vergangenen Jahren minim waren (0.0 bis 0.3%). Für die Statistik 2021 konnte der Fehler behoben werden. 
+- 2021/2022: Aufgrund eines technischen Fehlers im Kanton Genf in der zweiten Jahreshälfte konnten Fälle aus dem Jahr 2021 nicht übermittelt werden. Diese werden in der PKS 2022 erscheinen (ca. 450 BetmG Straftaten).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2021
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, diplomatisches Personal, internationale Funktionäre/innen, Ausweis Ci 
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, Touristen/innen / legal Anwesende ohne ausweispflichtigen Status, Asylsuchende mit Nichteintretensentscheid, abgewiesene Asylsuchende mit Sozialhilfestopp, Rückweisung an der Grenze, illegaler Aufenthalt, im Meldeverfahren, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2021
+4) Aufgrund eines Erfassungsfehlers beim Kanton Thurgau sind für 2021 nicht alle Straftaten von Konsum von Betäubungsmitteln in der Statistik enthalten (über 250 fehlende Straftaten).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2021
+Stand der Datenbank: 17.02.2022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2021
+© BFS 2022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2021
+Gesamttotal,40505.0,68600.0,79.0,65736.0,29810.0,2.0,29808.0,25848.0,3960.0,0.0,0.0,477.0,3960.0,2587.0,5537.0,4437.0,3748.0,3256.0,3687.0,1722.0,352.0,45.0,0.0,16526.0,13282.0,7228.0,893.0,5161.0,2020
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung4",36232.0,52515.0,32.0,50865.0,27023.0,1.0,27022.0,23376.0,3646.0,0.0,0.0,448.0,3845.0,2427.0,4964.0,3934.0,3316.0,2939.0,3297.0,1532.0,286.0,34.0,0.0,15519.0,11503.0,6675.0,835.0,3993.0,2020
+Konsum von Betäubungsmitteln,29484.0,30829.0,24.0,30799.0,23168.0,1.0,23167.0,20034.0,3133.0,0.0,0.0,419.0,3539.0,2152.0,4217.0,3282.0,2767.0,2499.0,2779.0,1275.0,219.0,19.0,0.0,13666.0,9501.0,5939.0,756.0,2806.0,2020
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",732.0,749.0,7.0,740.0,711.0,0.0,711.0,606.0,105.0,0.0,0.0,2.0,19.0,31.0,95.0,101.0,125.0,100.0,140.0,66.0,27.0,5.0,0.0,544.0,167.0,163.0,0.0,4.0,2020
+"lagern, versenden, befördern, einführen, ausführen oder durchführen, zum Eigenkonsum",2814.0,2832.0,1.0,2762.0,2588.0,0.0,2588.0,2233.0,355.0,0.0,0.0,6.0,66.0,184.0,502.0,493.0,408.0,336.0,369.0,159.0,54.0,11.0,0.0,1298.0,1290.0,512.0,15.0,763.0,2020
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",17938.0,18105.0,0.0,16564.0,13681.0,1.0,13680.0,11926.0,1754.0,0.0,0.0,161.0,1910.0,1134.0,2431.0,1937.0,1733.0,1556.0,1732.0,898.0,166.0,22.0,0.0,7696.0,5984.0,3207.0,403.0,2374.0,2020
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung",9949.0,16026.0,47.0,14812.0,8865.0,2.0,8863.0,7833.0,1030.0,0.0,0.0,119.0,838.0,740.0,1711.0,1388.0,1198.0,989.0,1150.0,555.0,154.0,21.0,0.0,4589.0,4274.0,1978.0,202.0,2094.0,2020
+davon Vergehen,8724.0,13117.0,41.0,11997.0,7607.0,2.0,7605.0,6710.0,895.0,0.0,0.0,117.0,830.0,680.0,1468.0,1144.0,980.0,820.0,958.0,464.0,129.0,15.0,0.0,4204.0,3401.0,1705.0,189.0,1507.0,2020
+"anbauen, herstellen oder anders erzeugen",487.0,579.0,4.0,578.0,556.0,0.0,556.0,483.0,73.0,0.0,0.0,0.0,8.0,21.0,57.0,85.0,94.0,78.0,109.0,78.0,24.0,2.0,0.0,427.0,129.0,113.0,1.0,15.0,2020
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",1409.0,1460.0,5.0,1236.0,1171.0,1.0,1170.0,1016.0,154.0,0.0,0.0,4.0,40.0,68.0,241.0,217.0,179.0,148.0,167.0,68.0,30.0,8.0,0.0,599.0,571.0,235.0,6.0,330.0,2020
+"besitzen, aufbewahren, erwerben, anders erlangen",5569.0,5866.0,0.0,5072.0,4587.0,2.0,4585.0,4080.0,505.0,0.0,0.0,48.0,454.0,399.0,922.0,694.0,624.0,506.0,578.0,279.0,74.0,7.0,0.0,2533.0,2052.0,1013.0,118.0,921.0,2020
+Ehemalige Kategorie Handel (Vergehen),4639.0,5212.0,32.0,5111.0,4440.0,0.0,4440.0,3943.0,497.0,0.0,0.0,93.0,548.0,455.0,864.0,627.0,538.0,432.0,548.0,255.0,74.0,6.0,0.0,2443.0,1997.0,980.0,139.0,878.0,2020
+davon Verbrechen,1584.0,2909.0,6.0,2815.0,1761.0,1.0,1760.0,1572.0,188.0,0.0,0.0,2.0,21.0,81.0,323.0,331.0,307.0,244.0,281.0,130.0,33.0,7.0,0.0,648.0,1112.0,392.0,18.0,702.0,2020
+"anbauen, herstellen oder anders erzeugen",55.0,79.0,0.0,79.0,77.0,0.0,77.0,70.0,7.0,0.0,0.0,0.0,1.0,0.0,10.0,14.0,17.0,11.0,13.0,8.0,3.0,0.0,0.0,53.0,24.0,21.0,0.0,3.0,2020
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",166.0,191.0,2.0,176.0,169.0,0.0,169.0,148.0,21.0,0.0,0.0,0.0,0.0,3.0,33.0,30.0,33.0,22.0,27.0,11.0,8.0,2.0,0.0,46.0,123.0,32.0,0.0,91.0,2020
+"besitzen, aufbewahren, erwerben, anders erlangen",832.0,961.0,0.0,915.0,922.0,1.0,921.0,829.0,92.0,0.0,0.0,0.0,12.0,49.0,165.0,174.0,154.0,125.0,145.0,74.0,19.0,4.0,0.0,280.0,641.0,192.0,9.0,440.0,2020
+Ehemalige Kategorie Handel (Verbrechen),1331.0,1678.0,4.0,1645.0,1510.0,1.0,1509.0,1353.0,156.0,0.0,0.0,2.0,11.0,72.0,278.0,292.0,270.0,210.0,236.0,109.0,23.0,6.0,0.0,551.0,958.0,336.0,16.0,606.0,2020
+Total: übrige Straftaten gegen das BetmG,58.0,59.0,0.0,59.0,58.0,0.0,58.0,50.0,8.0,0.0,0.0,0.0,7.0,2.0,5.0,12.0,10.0,9.0,8.0,3.0,2.0,0.0,0.0,29.0,29.0,16.0,0.0,13.0,2020
+übrige Übertretungen,58.0,59.0,0.0,59.0,58.0,0.0,58.0,50.0,8.0,0.0,0.0,0.0,7.0,2.0,5.0,12.0,10.0,9.0,8.0,3.0,2.0,0.0,0.0,29.0,29.0,16.0,0.0,13.0,2020
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, diplomatisches Personal, internationale Funktionäre/innen, Ausweis Ci 
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, Touristen/innen / legal Anwesende ohne ausweispflichtigen Status, Asylsuchende mit Nichteintretensentscheid, abgewiesene Asylsuchende mit Sozialhilfestopp, Rückweisung an der Grenze, illegaler Aufenthalt, im Meldeverfahren, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020
+4) Der Kanton Freiburg konnte die Codes für BetmG-Übertretungen bis 2020 nicht erfassen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020
+Stand der Datenbank: 15.02.2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020
+© BFS 2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2020
+Gesamttotal,44667.0,75757.0,50.0,72518.0,32976.0,2.0,32974.0,28807.0,4167.0,0.0,1,541,4468,2814,6433,5192,4313,3327,3915,1625,312,30,3,17866,15108,7723,986,6399,2019
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung4",39780.0,56248.0,9.0,54424.0,29766.0,1.0,29765.0,25976.0,3789.0,0.0,1,520,4312,2613,5735,4584,3852,2966,3471,1442,244,24,1,16814,12951,7158,920,4873,2019
+Konsum von Betäubungsmitteln,33252.0,34518.0,4.0,34485.0,26330.0,0.0,26330.0,23003.0,3327.0,0.0,1,493,3987,2383,5028,3935,3313,2609,3097,1256,210,17,1,15381,10949,6567,849,3533,2019
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",520.0,557.0,5.0,549.0,537.0,0.0,537.0,474.0,63.0,0.0,0,5,19,16,69,78,109,70,104,46,17,4,0,424,113,102,2,9,2019
+"lagern, versenden, befördern, einführen, ausführen oder durchführen, zum Eigenkonsum",773.0,778.0,0.0,768.0,761.0,0.0,761.0,650.0,111.0,0.0,0,0,9,47,224,174,131,74,66,31,5,0,0,158,603,81,2,520,2019
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",20194.0,20395.0,0.0,18622.0,15399.0,1.0,15398.0,13475.0,1923.0,0.0,0,225,2551,1197,2810,2309,1966,1556,1820,812,138,14,0,8355,7043,3386,473,3184,2019
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung",13122.0,19506.0,41.0,18091.0,11508.0,2.0,11506.0,10247.0,1259.0,0.0,0,145,1145,990,2359,1860,1588,1192,1439,613,150,22,3,5652,5854,2424,308,3122,2019
+davon Vergehen,11191.0,15475.0,32.0,14240.0,9568.0,1.0,9567.0,8511.0,1056.0,0.0,0,142,1128,874,1973,1487,1274,951,1086,510,122,19,1,5207,4360,2048,284,2028,2019
+"anbauen, herstellen oder anders erzeugen",429.0,509.0,2.0,503.0,487.0,0.0,487.0,439.0,48.0,0.0,0,2,20,17,48,88,91,76,80,46,17,2,0,385,102,89,2,11,2019
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",2897.0,2967.0,5.0,2603.0,2448.0,0.0,2448.0,2132.0,316.0,0.0,0,3,80,134,469,473,414,314,338,155,53,15,0,1185,1263,432,10,821,2019
+"besitzen, aufbewahren, erwerben, anders erlangen",6470.0,6721.0,0.0,5915.0,5314.0,1.0,5313.0,4771.0,542.0,0.0,0,75,667,476,1145,803,688,513,591,278,71,5,1,3023,2290,1171,184,935,2019
+Ehemalige Kategorie Handel (Vergehen),4789.0,5278.0,25.0,5219.0,4509.0,1.0,4508.0,4070.0,438.0,0.0,0,86,607,502,944,645,544,399,487,245,45,4,0,2396,2112,1024,217,871,2019
+davon Verbrechen,2291.0,4031.0,9.0,3851.0,2451.0,1.0,2450.0,2203.0,247.0,0.0,0,3,33,139,467,452,413,308,450,144,35,3,3,689,1761,498,34,1229,2019
+"anbauen, herstellen oder anders erzeugen",45.0,86.0,0.0,86.0,78.0,1.0,77.0,70.0,7.0,0.0,0,0,0,2,2,9,21,9,14,15,5,0,0,63,14,11,0,3,2019
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",241.0,276.0,0.0,240.0,231.0,0.0,231.0,182.0,49.0,0.0,0,0,0,10,37,41,33,29,58,17,6,0,0,48,183,37,1,145,2019
+"besitzen, aufbewahren, erwerben, anders erlangen",1316.0,1500.0,0.0,1424.0,1364.0,1.0,1363.0,1235.0,128.0,0.0,0,0,15,77,271,251,230,162,260,76,18,2,1,327,1036,248,17,771,2019
+Ehemalige Kategorie Handel (Verbrechen),1761.0,2169.0,9.0,2101.0,1951.0,1.0,1950.0,1772.0,178.0,0.0,0,3,25,123,390,364,323,245,339,109,25,1,3,534,1416,392,28,996,2019
+Total: übrige Straftaten gegen das BetmG,3.0,3.0,0.0,3.0,3.0,0.0,3.0,3.0,0.0,0.0,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,2019
+übrige Übertretungen,3.0,3.0,0.0,3.0,3.0,0.0,3.0,3.0,0.0,0.0,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,2019
+X: Entfällt aus Datenschutzgründen (Totalwerte 1-3),,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, diplomatisches Personal, internationale Funktionäre/innen, Ausweis Ci 
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, Touristen/innen / legal Anwesende ohne ausweispflichtigen Status, Asylsuchende mit Nichteintretensentscheid, abgewiesene Asylsuchende mit Sozialhilfestopp, Rückweisung an der Grenze, illegaler Aufenthalt, im Meldeverfahren, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019
+"4) Die Kantone Jura und Neuenburg konnten die Codes für BetmG-Übertretungen bis 2019 nicht erfassen, der Kanton Freiburg bis 2020 nicht.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019
+Stand der Datenbank: 13.02.2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019
+© BFS 2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2019
+Gesamttotal,44398.0,76308.0,51.0,73598.0,33470.0,3.0,33467.0,29187.0,4280.0,0.0,0.0,512.0,4669.0,2915.0,6601.0,5351.0,4300.0,3306.0,3817.0,1703.0,252.0,35.0,6.0,18649.0,14818.0,7652.0,1112.0,6054.0,2018
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung4",39403.0,56116.0,14.0,54332.0,29733.0,1.0,29732.0,25888.0,3844.0,0.0,1.0,483.0,4460.0,2686.0,5765.0,4655.0,3779.0,2871.0,3345.0,1466.0,196.0,24.0,1.0,17427.0,12305.0,7044.0,1023.0,4238.0,2018
+Konsum von Betäubungsmitteln,34394.0,35728.0,7.0,35676.0,27500.0,0.0,27500.0,23990.0,3510.0,0.0,1.0,459.0,4163.0,2545.0,5375.0,4296.0,3452.0,2666.0,3038.0,1328.0,161.0,15.0,1.0,16268.0,11232.0,6587.0,937.0,3708.0,2018
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",519.0,545.0,7.0,532.0,507.0,0.0,507.0,428.0,79.0,0.0,0.0,1.0,23.0,19.0,69.0,84.0,72.0,70.0,91.0,60.0,14.0,4.0,0.0,404.0,103.0,91.0,2.0,10.0,2018
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",19634.0,19843.0,0.0,18124.0,14999.0,1.0,14998.0,13102.0,1896.0,0.0,0.0,221.0,2750.0,1193.0,2675.0,2238.0,1862.0,1433.0,1726.0,781.0,103.0,16.0,0.0,8602.0,6396.0,3306.0,548.0,2542.0,2018
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung",13205.0,20192.0,37.0,19266.0,12062.0,3.0,12059.0,10650.0,1409.0,0.0,0.0,146.0,1234.0,1007.0,2522.0,2021.0,1591.0,1237.0,1428.0,706.0,137.0,24.0,6.0,6027.0,6032.0,2491.0,349.0,3192.0,2018
+davon Vergehen,11400.0,16099.0,34.0,15265.0,10171.0,3.0,10168.0,8935.0,1233.0,0.0,0.0,144.0,1218.0,937.0,2097.0,1652.0,1281.0,975.0,1152.0,568.0,118.0,24.0,2.0,5610.0,4558.0,2171.0,323.0,2064.0,2018
+"anbauen, herstellen oder anders erzeugen",659.0,746.0,2.0,738.0,719.0,0.0,719.0,620.0,99.0,0.0,0.0,0.0,30.0,23.0,86.0,133.0,107.0,100.0,122.0,84.0,31.0,3.0,0.0,582.0,137.0,130.0,0.0,7.0,2018
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",2618.0,2679.0,3.0,2533.0,2383.0,2.0,2381.0,2034.0,347.0,0.0,0.0,4.0,91.0,150.0,433.0,468.0,344.0,297.0,327.0,195.0,55.0,16.0,1.0,1418.0,963.0,423.0,13.0,527.0,2018
+"besitzen, aufbewahren, erwerben, anders erlangen",6748.0,7029.0,0.0,6409.0,5834.0,1.0,5833.0,5183.0,650.0,0.0,0.0,68.0,775.0,528.0,1217.0,926.0,758.0,540.0,649.0,308.0,55.0,7.0,2.0,3226.0,2607.0,1262.0,198.0,1147.0,2018
+Ehemalige Kategorie Handel (Vergehen),5118.0,5645.0,29.0,5585.0,4951.0,1.0,4950.0,4434.0,516.0,0.0,0.0,88.0,619.0,541.0,1119.0,771.0,573.0,417.0,537.0,241.0,39.0,5.0,0.0,2534.0,2416.0,1080.0,235.0,1101.0,2018
+davon Verbrechen,2143.0,4093.0,3.0,4001.0,2382.0,0.0,2382.0,2155.0,227.0,0.0,0.0,2.0,29.0,102.0,524.0,451.0,397.0,328.0,341.0,179.0,24.0,0.0,5.0,625.0,1757.0,441.0,41.0,1275.0,2018
+"anbauen, herstellen oder anders erzeugen",54.0,80.0,1.0,79.0,78.0,0.0,78.0,76.0,2.0,0.0,0.0,0.0,1.0,0.0,9.0,9.0,15.0,18.0,9.0,15.0,2.0,0.0,0.0,61.0,17.0,14.0,0.0,3.0,2018
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",208.0,265.0,1.0,254.0,227.0,0.0,227.0,194.0,33.0,0.0,0.0,0.0,1.0,3.0,36.0,34.0,42.0,46.0,39.0,22.0,3.0,0.0,1.0,46.0,181.0,43.0,2.0,136.0,2018
+"besitzen, aufbewahren, erwerben, anders erlangen",1246.0,1430.0,0.0,1380.0,1342.0,0.0,1342.0,1232.0,110.0,0.0,0.0,2.0,11.0,62.0,295.0,263.0,211.0,176.0,203.0,106.0,13.0,0.0,0.0,286.0,1056.0,224.0,21.0,811.0,2018
+Ehemalige Kategorie Handel (Verbrechen),1849.0,2318.0,1.0,2288.0,2100.0,0.0,2100.0,1914.0,186.0,0.0,0.0,0.0,27.0,92.0,480.0,401.0,352.0,280.0,293.0,149.0,22.0,0.0,4.0,533.0,1567.0,389.0,37.0,1141.0,2018
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, diplomatisches Personal, internationale Funktionäre/innen, Ausweis Ci 
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, Touristen/innen / legal Anwesende ohne ausweispflichtigen Status, Asylsuchende mit Nichteintretensentscheid, abgewiesene Asylsuchende mit Sozialhilfestopp, Rückweisung an der Grenze, illegaler Aufenthalt, im Meldeverfahren, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018
+"4) Die Kantone Jura und Neuenburg konnten die Codes für BetmG-Übertretungen bis 2019 nicht erfassen, der Kanton Freiburg bis 2020 nicht.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018
+Stand der Datenbank: 13.02.2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018
+© BFS 2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2018
+Gesamttotal,46228.0,80074.0,65.0,77043.0,34548.0,2.0,34546.0,30237.0,4309.0,0.0,1.0,498.0,5121.0,2989.0,6989.0,5574.0,4443.0,3245.0,3861.0,1571.0,221.0,32.0,1.0,19261.0,15285.0,7785.0,941.0,6559.0,2017
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung4",41418.0,60423.0,9.0,58217.0,30947.0,1.0,30946.0,27030.0,3916.0,0.0,1.0,481.0,4924.0,2731.0,6188.0,4888.0,3932.0,2851.0,3394.0,1362.0,171.0,22.0,1.0,18197.0,12749.0,7226.0,820.0,4703.0,2017
+Konsum von Betäubungsmitteln,36177.0,37488.0,7.0,37391.0,28804.0,1.0,28803.0,25163.0,3640.0,0.0,1.0,464.0,4650.0,2620.0,5779.0,4489.0,3640.0,2646.0,3118.0,1230.0,148.0,18.0,0.0,17071.0,11732.0,6808.0,753.0,4171.0,2017
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",600.0,630.0,2.0,623.0,613.0,0.0,613.0,529.0,84.0,0.0,0.0,3.0,21.0,28.0,92.0,91.0,108.0,76.0,93.0,75.0,21.0,5.0,0.0,501.0,112.0,104.0,2.0,6.0,2017
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",22109.0,22305.0,0.0,20203.0,16386.0,1.0,16385.0,14398.0,1987.0,0.0,1.0,203.0,2874.0,1287.0,3167.0,2487.0,2121.0,1488.0,1867.0,775.0,98.0,16.0,1.0,9314.0,7071.0,3614.0,450.0,3007.0,2017
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung",12654.0,19651.0,56.0,18826.0,11774.0,2.0,11772.0,10503.0,1269.0,0.0,0.0,122.0,1197.0,954.0,2450.0,2008.0,1624.0,1211.0,1461.0,608.0,115.0,22.0,0.0,5650.0,6122.0,2364.0,324.0,3434.0,2017
+davon Vergehen,10754.0,15298.0,52.0,14563.0,9739.0,2.0,9737.0,8683.0,1054.0,0.0,0.0,122.0,1174.0,842.0,2025.0,1626.0,1293.0,952.0,1124.0,469.0,95.0,15.0,0.0,5217.0,4520.0,2006.0,283.0,2231.0,2017
+"anbauen, herstellen oder anders erzeugen",657.0,754.0,13.0,745.0,731.0,0.0,731.0,654.0,77.0,0.0,0.0,0.0,19.0,30.0,106.0,143.0,127.0,99.0,121.0,68.0,15.0,3.0,0.0,588.0,143.0,134.0,1.0,8.0,2017
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",2008.0,2070.0,6.0,1946.0,1842.0,0.0,1842.0,1610.0,232.0,0.0,0.0,7.0,63.0,93.0,410.0,376.0,298.0,189.0,246.0,124.0,29.0,7.0,0.0,960.0,882.0,332.0,11.0,539.0,2017
+"besitzen, aufbewahren, erwerben, anders erlangen",6392.0,6637.0,0.0,6119.0,5649.0,1.0,5648.0,5073.0,575.0,0.0,0.0,48.0,718.0,448.0,1162.0,960.0,750.0,556.0,656.0,284.0,61.0,5.0,0.0,3041.0,2607.0,1145.0,178.0,1284.0,2017
+Ehemalige Kategorie Handel (Vergehen),5347.0,5837.0,33.0,5753.0,5117.0,1.0,5116.0,4606.0,510.0,0.0,0.0,81.0,584.0,540.0,1105.0,845.0,635.0,456.0,597.0,225.0,43.0,5.0,0.0,2588.0,2528.0,1063.0,204.0,1261.0,2017
+davon Verbrechen,2277.0,4353.0,4.0,4263.0,2572.0,1.0,2571.0,2312.0,259.0,0.0,0.0,0.0,32.0,153.0,544.0,471.0,415.0,339.0,411.0,170.0,29.0,7.0,0.0,675.0,1896.0,461.0,57.0,1378.0,2017
+"anbauen, herstellen oder anders erzeugen",82.0,150.0,1.0,150.0,111.0,0.0,111.0,96.0,15.0,0.0,0.0,0.0,0.0,2.0,5.0,18.0,17.0,20.0,23.0,18.0,5.0,3.0,0.0,85.0,26.0,21.0,0.0,5.0,2017
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",230.0,271.0,0.0,261.0,252.0,0.0,252.0,203.0,49.0,0.0,0.0,0.0,1.0,4.0,55.0,42.0,48.0,27.0,49.0,16.0,9.0,1.0,0.0,59.0,193.0,41.0,0.0,152.0,2017
+"besitzen, aufbewahren, erwerben, anders erlangen",1356.0,1513.0,0.0,1473.0,1460.0,1.0,1459.0,1331.0,128.0,0.0,0.0,0.0,20.0,91.0,336.0,256.0,231.0,171.0,232.0,103.0,16.0,3.0,0.0,306.0,1153.0,223.0,32.0,898.0,2017
+Ehemalige Kategorie Handel (Verbrechen),1947.0,2419.0,3.0,2379.0,2201.0,0.0,2201.0,2000.0,201.0,0.0,0.0,0.0,27.0,143.0,490.0,398.0,355.0,288.0,343.0,133.0,20.0,4.0,0.0,555.0,1646.0,390.0,55.0,1201.0,2017
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, diplomatisches Personal, internationale Funktionäre/innen, Ausweis Ci 
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, Touristen/innen / legal Anwesende ohne ausweispflichtigen Status, Asylsuchende mit Nichteintretensentscheid, abgewiesene Asylsuchende mit Sozialhilfestopp, Rückweisung an der Grenze, illegaler Aufenthalt, im Meldeverfahren, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017
+"4) Die Kantone Jura und Neuenburg konnten die Codes für BetmG-Übertretungen bis 2019 nicht erfassen, der Kanton Freiburg bis 2020 nicht.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017
+Stand der Datenbank: 15.02.2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017
+© BFS 2018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2017
+Gesamttotal,47847.0,83268.0,74.0,79765.0,34749.0,1.0,34748.0,30383.0,4365.0,0.0,2.0,398.0,4996.0,3118.0,7213.0,5630.0,4587.0,3308.0,3885.0,1377.0,205.0,24.0,5.0,19187.0,15561.0,7757.0,1103.0,6701.0,2016
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung4",42922.0,63067.0,22.0,60631.0,31264.0,1.0,31263.0,27231.0,4032.0,0.0,2.0,382.0,4817.0,2870.0,6377.0,4994.0,4080.0,2894.0,3455.0,1205.0,166.0,18.0,3.0,18295.0,12968.0,7199.0,928.0,4841.0,2016
+Konsum von Betäubungsmitteln,37065.0,38519.0,15.0,38415.0,28809.0,0.0,28809.0,25105.0,3704.0,0.0,2.0,368.0,4559.0,2675.0,5869.0,4543.0,3732.0,2661.0,3150.0,1097.0,140.0,11.0,2.0,17073.0,11736.0,6749.0,832.0,4155.0,2016
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",469.0,492.0,3.0,487.0,484.0,0.0,484.0,423.0,61.0,0.0,0.0,1.0,9.0,29.0,80.0,82.0,78.0,57.0,82.0,48.0,14.0,4.0,0.0,388.0,96.0,87.0,1.0,8.0,2016
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",23838.0,24056.0,4.0,21729.0,17204.0,1.0,17203.0,15152.0,2051.0,0.0,2.0,179.0,2975.0,1537.0,3458.0,2689.0,2183.0,1471.0,1926.0,677.0,90.0,13.0,3.0,9898.0,7305.0,3661.0,580.0,3064.0,2016
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung",13006.0,20201.0,52.0,19134.0,11770.0,1.0,11769.0,10523.0,1246.0,0.0,0.0,98.0,1131.0,944.0,2539.0,2002.0,1656.0,1266.0,1457.0,560.0,104.0,10.0,2.0,5336.0,6433.0,2350.0,415.0,3668.0,2016
+davon Vergehen,10907.0,15373.0,46.0,14459.0,9491.0,1.0,9490.0,8473.0,1017.0,0.0,0.0,95.0,1105.0,822.0,2048.0,1543.0,1290.0,956.0,1105.0,432.0,86.0,7.0,1.0,4895.0,4595.0,1999.0,331.0,2265.0,2016
+"anbauen, herstellen oder anders erzeugen",713.0,798.0,3.0,785.0,775.0,0.0,775.0,694.0,81.0,0.0,0.0,2.0,18.0,30.0,138.0,140.0,137.0,99.0,123.0,68.0,19.0,1.0,0.0,603.0,172.0,149.0,4.0,19.0,2016
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",1598.0,1647.0,6.0,1531.0,1394.0,0.0,1394.0,1252.0,142.0,0.0,0.0,1.0,37.0,109.0,340.0,291.0,220.0,152.0,148.0,77.0,18.0,1.0,0.0,676.0,718.0,245.0,8.0,465.0,2016
+"besitzen, aufbewahren, erwerben, anders erlangen",6755.0,7076.0,0.0,6407.0,5782.0,1.0,5781.0,5201.0,580.0,0.0,0.0,42.0,763.0,456.0,1165.0,941.0,794.0,587.0,697.0,267.0,64.0,4.0,1.0,3083.0,2698.0,1268.0,205.0,1225.0,2016
+Ehemalige Kategorie Handel (Vergehen),5414.0,5852.0,37.0,5736.0,5067.0,0.0,5067.0,4576.0,491.0,0.0,0.0,64.0,516.0,529.0,1174.0,802.0,652.0,484.0,586.0,218.0,36.0,5.0,1.0,2416.0,2651.0,1047.0,263.0,1341.0,2016
+davon Verbrechen,2496.0,4828.0,6.0,4675.0,2845.0,1.0,2844.0,2562.0,282.0,0.0,0.0,4.0,37.0,156.0,600.0,553.0,466.0,385.0,453.0,160.0,25.0,4.0,1.0,669.0,2175.0,474.0,103.0,1598.0,2016
+"anbauen, herstellen oder anders erzeugen",112.0,171.0,1.0,170.0,155.0,0.0,155.0,139.0,16.0,0.0,0.0,0.0,1.0,2.0,16.0,16.0,25.0,29.0,44.0,15.0,5.0,2.0,0.0,114.0,41.0,31.0,0.0,10.0,2016
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",226.0,257.0,4.0,250.0,241.0,0.0,241.0,205.0,36.0,0.0,0.0,1.0,2.0,9.0,32.0,44.0,39.0,46.0,41.0,22.0,3.0,1.0,1.0,42.0,199.0,31.0,4.0,164.0,2016
+"besitzen, aufbewahren, erwerben, anders erlangen",1534.0,1810.0,0.0,1725.0,1652.0,0.0,1652.0,1505.0,147.0,0.0,0.0,3.0,16.0,97.0,362.0,333.0,275.0,210.0,249.0,94.0,9.0,3.0,1.0,328.0,1324.0,230.0,59.0,1035.0,2016
+Ehemalige Kategorie Handel (Verbrechen),2059.0,2590.0,1.0,2530.0,2376.0,1.0,2375.0,2154.0,221.0,0.0,0.0,2.0,32.0,142.0,536.0,466.0,376.0,303.0,369.0,127.0,18.0,3.0,1.0,542.0,1833.0,392.0,92.0,1349.0,2016
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, diplomatisches Personal, internationale Funktionäre/innen, Ausweis Ci 
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, Touristen/innen / legal Anwesende ohne ausweispflichtigen Status, Asylsuchende mit Nichteintretensentscheid, abgewiesene Asylsuchende mit Sozialhilfestopp, Rückweisung an der Grenze, illegaler Aufenthalt, im Meldeverfahren, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016
+"4) Die Kantone Jura und Neuenburg konnten die Codes für BetmG-Übertretungen bis 2019 nicht erfassen, der Kanton Freiburg bis 2020 nicht.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016
+Stand der Datenbank: 10.02.2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016
+© BFS 2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2016
+Gesamttotal,46910.0,86128.0,123.0,83304.0,35608.0,1.0,35607.0,31151.0,4456.0,0.0,3.0,451.0,5146.0,3129.0,7337.0,5762.0,4722.0,3160.0,4067.0,1505.0,270.0,50.0,5.0,20452.0,15155.0,7578.0,1004.0,6573.0,2015
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung4",41968.0,62144.0,43.0,60164.0,31893.0,1.0,31892.0,27795.0,4097.0,0.0,3.0,434.0,4976.0,2856.0,6466.0,5047.0,4183.0,2792.0,3613.0,1286.0,196.0,35.0,5.0,19319.0,12573.0,7063.0,805.0,4705.0,2015
+Konsum von Betäubungsmitteln,36428.0,37799.0,23.0,37704.0,29163.0,0.0,29163.0,25470.0,3693.0,0.0,1.0,403.0,4673.0,2674.0,5989.0,4587.0,3810.0,2515.0,3236.0,1087.0,162.0,22.0,4.0,17796.0,11367.0,6589.0,720.0,4058.0,2015
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",721.0,757.0,11.0,753.0,743.0,1.0,742.0,634.0,108.0,0.0,0.0,0.0,27.0,27.0,117.0,115.0,127.0,84.0,145.0,73.0,22.0,5.0,0.0,610.0,132.0,118.0,0.0,14.0,2015
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",23387.0,23588.0,9.0,21707.0,17760.0,1.0,17759.0,15520.0,2239.0,0.0,3.0,198.0,3025.0,1537.0,3482.0,2708.0,2293.0,1551.0,2058.0,758.0,120.0,24.0,2.0,10606.0,7153.0,3738.0,503.0,2912.0,2015
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung",14725.0,23984.0,80.0,23140.0,13715.0,1.0,13714.0,12232.0,1482.0,0.0,0.0,110.0,1189.0,1107.0,2785.0,2428.0,1926.0,1332.0,1817.0,807.0,176.0,36.0,1.0,7117.0,6597.0,2435.0,451.0,3711.0,2015
+davon Vergehen,12724.0,19288.0,73.0,18571.0,11567.0,1.0,11566.0,10284.0,1282.0,0.0,0.0,109.0,1165.0,963.0,2244.0,1996.0,1605.0,1072.0,1521.0,698.0,158.0,34.0,1.0,6751.0,4815.0,2137.0,385.0,2293.0,2015
+"anbauen, herstellen oder anders erzeugen",1520.0,1650.0,16.0,1622.0,1541.0,0.0,1541.0,1351.0,190.0,0.0,0.0,7.0,48.0,68.0,211.0,287.0,273.0,153.0,287.0,156.0,37.0,14.0,0.0,1278.0,263.0,239.0,3.0,21.0,2015
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",3635.0,3702.0,20.0,3649.0,3478.0,0.0,3478.0,2964.0,514.0,0.0,0.0,13.0,136.0,227.0,603.0,576.0,561.0,368.0,554.0,324.0,93.0,23.0,0.0,2544.0,934.0,437.0,18.0,479.0,2015
+"besitzen, aufbewahren, erwerben, anders erlangen",7776.0,8184.0,3.0,7657.0,6993.0,1.0,6992.0,6272.0,720.0,0.0,0.0,64.0,761.0,548.0,1306.0,1254.0,997.0,641.0,937.0,379.0,86.0,18.0,1.0,4057.0,2935.0,1353.0,248.0,1334.0,2015
+Ehemalige Kategorie Handel (Vergehen),5257.0,5752.0,34.0,5643.0,4986.0,1.0,4985.0,4582.0,403.0,0.0,0.0,52.0,478.0,546.0,1092.0,900.0,617.0,434.0,599.0,222.0,41.0,4.0,0.0,2379.0,2606.0,990.0,310.0,1306.0,2015
+davon Verbrechen,2408.0,4696.0,7.0,4569.0,2772.0,0.0,2772.0,2522.0,250.0,0.0,0.0,1.0,34.0,177.0,657.0,559.0,430.0,335.0,394.0,156.0,25.0,3.0,1.0,594.0,2178.0,427.0,87.0,1664.0,2015
+"anbauen, herstellen oder anders erzeugen",103.0,144.0,0.0,142.0,139.0,0.0,139.0,125.0,14.0,0.0,0.0,0.0,0.0,1.0,8.0,13.0,29.0,19.0,41.0,21.0,7.0,0.0,0.0,91.0,48.0,37.0,0.0,11.0,2015
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",256.0,303.0,2.0,293.0,285.0,0.0,285.0,243.0,42.0,0.0,0.0,0.0,2.0,11.0,25.0,60.0,64.0,53.0,42.0,22.0,5.0,1.0,0.0,39.0,246.0,52.0,9.0,185.0,2015
+"besitzen, aufbewahren, erwerben, anders erlangen",1489.0,1767.0,0.0,1701.0,1615.0,0.0,1615.0,1475.0,140.0,0.0,0.0,0.0,22.0,113.0,396.0,332.0,241.0,196.0,212.0,88.0,13.0,2.0,0.0,292.0,1323.0,216.0,44.0,1063.0,2015
+Ehemalige Kategorie Handel (Verbrechen),1930.0,2482.0,5.0,2433.0,2261.0,0.0,2261.0,2083.0,178.0,0.0,0.0,1.0,31.0,158.0,601.0,449.0,330.0,250.0,304.0,117.0,17.0,2.0,1.0,432.0,1829.0,339.0,74.0,1416.0,2015
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, diplomatisches Personal, internationale Funktionäre/innen, Ausweis Ci 
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, Touristen/innen / legal Anwesende ohne ausweispflichtigen Status, Asylsuchende mit Nichteintretensentscheid, abgewiesene Asylsuchende mit Sozialhilfestopp, Rückweisung an der Grenze, illegaler Aufenthalt, im Meldeverfahren, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015
+"4) Die Kantone Jura und Neuenburg konnten die Codes für BetmG-Übertretungen bis 2019 nicht erfassen, der Kanton Freiburg bis 2020 nicht.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015
+Stand der Datenbank: 11.02.2016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015
+© BFS 2016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2015
+Gesamttotal,45292.0,80986.0,103.0,78242.0,33885.0,5.0,33880.0,29878.0,4002.0,0.0,3.0,521.0,4982.0,3224.0,7293.0,5687.0,4250.0,2897.0,3745.0,1113.0,144.0,16.0,5.0,18761.0,15119.0,7213.0,1257.0,6649.0,2014
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung4",40961.0,60253.0,22.0,58253.0,30559.0,1.0,30558.0,26867.0,3691.0,0.0,3.0,494.0,4804.0,2965.0,6456.0,5058.0,3825.0,2539.0,3327.0,972.0,100.0,11.0,4.0,17880.0,12678.0,6708.0,1006.0,4964.0,2014
+Konsum von Betäubungsmitteln,36104.0,37602.0,14.0,37546.0,28523.0,0.0,28523.0,25089.0,3434.0,0.0,3.0,473.0,4569.0,2804.0,6050.0,4679.0,3574.0,2333.0,3071.0,870.0,84.0,8.0,5.0,16815.0,11708.0,6335.0,913.0,4460.0,2014
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",620.0,642.0,5.0,634.0,626.0,1.0,625.0,549.0,76.0,0.0,1.0,1.0,17.0,33.0,113.0,107.0,109.0,62.0,111.0,60.0,11.0,0.0,0.0,491.0,134.0,121.0,2.0,11.0,2014
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",21805.0,22009.0,3.0,20073.0,16066.0,1.0,16065.0,14235.0,1830.0,0.0,3.0,245.0,2770.0,1540.0,3272.0,2640.0,1949.0,1338.0,1743.0,502.0,56.0,7.0,0.0,9185.0,6880.0,3309.0,648.0,2923.0,2014
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung",13179.0,20733.0,81.0,19989.0,12291.0,5.0,12286.0,11074.0,1212.0,0.0,0.0,125.0,1205.0,1063.0,2783.0,2234.0,1617.0,1186.0,1475.0,501.0,83.0,10.0,4.0,5745.0,6541.0,2353.0,598.0,3590.0,2014
+davon Vergehen,11439.0,16322.0,68.0,15713.0,10336.0,3.0,10333.0,9300.0,1033.0,0.0,0.0,125.0,1184.0,926.0,2269.0,1857.0,1339.0,976.0,1195.0,387.0,64.0,7.0,4.0,5331.0,5002.0,2082.0,522.0,2398.0,2014
+"anbauen, herstellen oder anders erzeugen",833.0,930.0,8.0,911.0,888.0,2.0,886.0,798.0,88.0,0.0,0.0,3.0,25.0,36.0,144.0,201.0,147.0,106.0,138.0,71.0,15.0,0.0,0.0,722.0,164.0,149.0,0.0,15.0,2014
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",1493.0,1546.0,8.0,1520.0,1457.0,0.0,1457.0,1297.0,160.0,0.0,0.0,2.0,31.0,99.0,348.0,325.0,204.0,164.0,188.0,76.0,15.0,2.0,3.0,781.0,676.0,231.0,13.0,432.0,2014
+"besitzen, aufbewahren, erwerben, anders erlangen",7328.0,7731.0,3.0,7251.0,6527.0,3.0,6524.0,5907.0,617.0,0.0,0.0,65.0,784.0,517.0,1372.0,1184.0,866.0,648.0,797.0,241.0,43.0,3.0,4.0,3398.0,3126.0,1301.0,300.0,1525.0,2014
+Ehemalige Kategorie Handel (Vergehen),5569.0,6115.0,49.0,6031.0,5375.0,2.0,5373.0,4859.0,514.0,0.0,0.0,71.0,525.0,608.0,1248.0,952.0,668.0,467.0,606.0,192.0,30.0,5.0,1.0,2585.0,2788.0,1092.0,427.0,1269.0,2014
+davon Verbrechen,2261.0,4411.0,13.0,4276.0,2598.0,3.0,2595.0,2362.0,233.0,0.0,0.0,0.0,38.0,183.0,660.0,508.0,376.0,294.0,367.0,141.0,25.0,3.0,0.0,633.0,1962.0,397.0,103.0,1462.0,2014
+"anbauen, herstellen oder anders erzeugen",134.0,187.0,0.0,186.0,173.0,0.0,173.0,151.0,22.0,0.0,0.0,0.0,0.0,2.0,13.0,24.0,40.0,28.0,43.0,20.0,3.0,0.0,0.0,126.0,47.0,39.0,1.0,7.0,2014
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",218.0,255.0,6.0,245.0,227.0,0.0,227.0,193.0,34.0,0.0,0.0,0.0,1.0,7.0,47.0,37.0,37.0,30.0,44.0,20.0,3.0,1.0,0.0,35.0,192.0,35.0,7.0,150.0,2014
+"besitzen, aufbewahren, erwerben, anders erlangen",1232.0,1455.0,1.0,1372.0,1342.0,1.0,1341.0,1231.0,110.0,0.0,0.0,0.0,13.0,98.0,331.0,262.0,202.0,151.0,197.0,73.0,12.0,2.0,0.0,275.0,1066.0,159.0,42.0,865.0,2014
+Ehemalige Kategorie Handel (Verbrechen),1909.0,2514.0,6.0,2473.0,2259.0,2.0,2257.0,2075.0,182.0,0.0,0.0,0.0,36.0,174.0,600.0,440.0,313.0,246.0,301.0,121.0,23.0,3.0,0.0,539.0,1718.0,340.0,91.0,1287.0,2014
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, diplomatisches Personal, internationale Funktionäre/innen, Ausweis Ci 
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, Touristen/innen / legal Anwesende ohne ausweispflichtigen Status, Asylsuchende mit Nichteintretensentscheid, abgewiesene Asylsuchende mit Sozialhilfestopp, Rückweisung an der Grenze, illegaler Aufenthalt, im Meldeverfahren, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2014
+"4) Die Kantone Jura und Neuenburg konnten die Codes für BetmG-Übertretungen bis 2019 nicht erfassen, der Kanton Freiburg bis 2020 nicht.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2014
+Stand der Datenbank: 12.02.2015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2014
+© BFS 2015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2014
+Gesamttotal,54629.0,97289.0,79.0,94561.0,41680.0,4.0,41676.0,36882.0,4794.0,0.0,3.0,506.0,4741.0,5182.0,10480.0,7291.0,5143.0,3179.0,3915.0,1075.0,135.0,17.0,9.0,23015.0,18661.0,8550.0,2355.0,7755.0,2013
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung4",49906.0,76615.0,14.0,74574.0,38124.0,1.0,38123.0,33663.0,4460.0,0.0,3.0,488.0,4567.0,4902.0,9544.0,6594.0,4638.0,2820.0,3513.0,931.0,103.0,15.0,5.0,22025.0,16098.0,8013.0,1968.0,6116.0,2013
+Konsum von Betäubungsmitteln,44212.0,45905.0,10.0,45845.0,35675.0,1.0,35674.0,31530.0,4144.0,0.0,3.0,465.0,4345.0,4648.0,8977.0,6115.0,4339.0,2634.0,3209.0,835.0,89.0,11.0,4.0,20631.0,15043.0,7545.0,1797.0,5700.0,2013
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",462.0,484.0,2.0,474.0,472.0,0.0,472.0,407.0,65.0,0.0,0.0,2.0,13.0,29.0,81.0,84.0,90.0,36.0,90.0,40.0,4.0,3.0,0.0,367.0,105.0,91.0,3.0,11.0,2013
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",29899.0,30226.0,2.0,28255.0,23004.0,1.0,23003.0,20539.0,2464.0,0.0,1.0,217.0,2677.0,3132.0,6017.0,3989.0,2660.0,1638.0,2044.0,562.0,58.0,6.0,2.0,13120.0,9883.0,4573.0,1280.0,4029.0,2013
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung",13921.0,20674.0,65.0,19987.0,12978.0,4.0,12974.0,11693.0,1281.0,0.0,1.0,122.0,1041.0,1395.0,3176.0,2430.0,1712.0,1139.0,1405.0,461.0,82.0,5.0,5.0,5976.0,6998.0,2424.0,1002.0,3572.0,2013
+davon Vergehen,12169.0,16146.0,58.0,15584.0,10895.0,2.0,10893.0,9813.0,1080.0,0.0,1.0,120.0,1017.0,1289.0,2634.0,1996.0,1385.0,892.0,1126.0,359.0,67.0,4.0,3.0,5584.0,5309.0,2108.0,891.0,2310.0,2013
+"anbauen, herstellen oder anders erzeugen",700.0,818.0,4.0,799.0,755.0,1.0,754.0,661.0,93.0,0.0,0.0,3.0,20.0,21.0,130.0,159.0,132.0,70.0,142.0,63.0,13.0,1.0,0.0,589.0,165.0,152.0,1.0,12.0,2013
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",1301.0,1347.0,7.0,1332.0,1280.0,0.0,1280.0,1133.0,147.0,0.0,0.0,1.0,42.0,129.0,325.0,256.0,180.0,125.0,154.0,47.0,18.0,2.0,1.0,652.0,628.0,183.0,8.0,437.0,2013
+"besitzen, aufbewahren, erwerben, anders erlangen",8444.0,8803.0,4.0,8371.0,7487.0,0.0,7487.0,6758.0,729.0,0.0,1.0,71.0,709.0,894.0,1860.0,1371.0,978.0,604.0,722.0,234.0,40.0,1.0,2.0,3955.0,3532.0,1487.0,531.0,1514.0,2013
+Ehemalige Kategorie Handel (Vergehen),4803.0,5178.0,43.0,5082.0,4577.0,1.0,4576.0,4153.0,423.0,0.0,0.0,58.0,387.0,535.0,1032.0,857.0,570.0,404.0,536.0,173.0,24.0,0.0,0.0,2026.0,2550.0,871.0,679.0,1000.0,2013
+davon Verbrechen,2234.0,4528.0,7.0,4403.0,2672.0,3.0,2669.0,2416.0,253.0,0.0,0.0,4.0,34.0,156.0,666.0,566.0,413.0,303.0,366.0,139.0,18.0,2.0,2.0,601.0,2068.0,431.0,146.0,1491.0,2013
+"anbauen, herstellen oder anders erzeugen",135.0,174.0,0.0,172.0,168.0,0.0,168.0,149.0,19.0,0.0,0.0,0.0,0.0,1.0,19.0,35.0,34.0,21.0,32.0,21.0,5.0,0.0,0.0,122.0,46.0,38.0,1.0,7.0,2013
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",256.0,319.0,4.0,308.0,297.0,1.0,296.0,250.0,46.0,0.0,0.0,1.0,2.0,6.0,49.0,52.0,50.0,50.0,63.0,18.0,4.0,1.0,0.0,52.0,244.0,52.0,5.0,187.0,2013
+"besitzen, aufbewahren, erwerben, anders erlangen",1240.0,1495.0,1.0,1441.0,1401.0,1.0,1400.0,1278.0,122.0,0.0,0.0,1.0,15.0,73.0,350.0,308.0,214.0,159.0,197.0,72.0,10.0,1.0,0.0,275.0,1125.0,181.0,69.0,875.0,2013
+Ehemalige Kategorie Handel (Verbrechen),1854.0,2540.0,2.0,2482.0,2288.0,3.0,2285.0,2083.0,202.0,0.0,0.0,3.0,28.0,136.0,596.0,498.0,346.0,253.0,300.0,107.0,15.0,1.0,2.0,479.0,1806.0,375.0,136.0,1295.0,2013
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, diplomatisches Personal, internationale Funktionäre/innen, Ausweis Ci 
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, Touristen/innen / legal Anwesende ohne ausweispflichtigen Status, Asylsuchende mit Nichteintretensentscheid, abgewiesene Asylsuchende mit Sozialhilfestopp, Rückweisung an der Grenze, illegaler Aufenthalt, im Meldeverfahren, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013
+"4) Die Kantone Jura und Neuenburg konnten die Codes für BetmG-Übertretungen bis 2019 nicht erfassen, der Kanton Freiburg bis 2020 nicht.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013
+Stand der Datenbank: 10.02.2014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013
+© BFS 2014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2013
+Gesamttotal,53584.0,92862.0,112.0,89627.0,39914.0,2.0,39912.0,35522.0,4390.0,0.0,7.0,448.0,4408.0,5202.0,10169.0,7045.0,4850.0,2997.0,3735.0,904.0,118.0,20.0,9.0,22045.0,17867.0,8112.0,2804.0,6951.0,2012
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung4",49016.0,73885.0,20.0,71335.0,36499.0,1.0,36498.0,32495.0,4003.0,0.0,7.0,428.0,4247.0,4893.0,9298.0,6380.0,4337.0,2701.0,3352.0,752.0,88.0,12.0,3.0,21033.0,15465.0,7565.0,2383.0,5517.0,2012
+Konsum von Betäubungsmitteln,43115.0,44789.0,12.0,44747.0,34211.0,0.0,34211.0,30487.0,3724.0,0.0,7.0,410.0,4053.0,4651.0,8755.0,5941.0,4040.0,2508.0,3094.0,670.0,71.0,9.0,2.0,19740.0,14471.0,7076.0,2184.0,5211.0,2012
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",470.0,496.0,2.0,490.0,486.0,1.0,485.0,423.0,62.0,0.0,1.0,5.0,22.0,32.0,78.0,92.0,74.0,44.0,86.0,39.0,10.0,2.0,0.0,410.0,75.0,60.0,2.0,13.0,2012
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",28276.0,28600.0,6.0,26098.0,21227.0,1.0,21226.0,19136.0,2090.0,0.0,5.0,159.0,2232.0,2957.0,5702.0,3718.0,2477.0,1581.0,1891.0,445.0,53.0,5.0,1.0,11884.0,9342.0,4192.0,1601.0,3549.0,2012
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung",13103.0,18977.0,92.0,18292.0,12164.0,2.0,12162.0,10983.0,1179.0,0.0,1.0,103.0,1038.0,1377.0,3025.0,2208.0,1672.0,1008.0,1257.0,393.0,56.0,17.0,7.0,5701.0,6461.0,2274.0,1137.0,3050.0,2012
+davon Vergehen,11420.0,14760.0,86.0,14146.0,10178.0,2.0,10176.0,9230.0,946.0,0.0,1.0,102.0,1014.0,1265.0,2545.0,1774.0,1335.0,793.0,997.0,291.0,40.0,14.0,5.0,5335.0,4841.0,1964.0,1026.0,1851.0,2012
+"anbauen, herstellen oder anders erzeugen",676.0,769.0,7.0,759.0,739.0,2.0,737.0,649.0,88.0,0.0,0.0,4.0,25.0,45.0,126.0,138.0,122.0,74.0,127.0,55.0,17.0,4.0,0.0,610.0,127.0,116.0,0.0,11.0,2012
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",972.0,993.0,35.0,978.0,960.0,0.0,960.0,849.0,111.0,0.0,0.0,1.0,27.0,87.0,271.0,205.0,161.0,83.0,89.0,34.0,1.0,0.0,1.0,461.0,499.0,140.0,22.0,337.0,2012
+"besitzen, aufbewahren, erwerben, anders erlangen",7707.0,7994.0,5.0,7481.0,6811.0,1.0,6810.0,6216.0,594.0,0.0,1.0,60.0,735.0,848.0,1726.0,1187.0,834.0,515.0,687.0,180.0,27.0,7.0,3.0,3696.0,3114.0,1355.0,590.0,1169.0,2012
+Ehemalige Kategorie Handel (Vergehen),4629.0,5004.0,39.0,4928.0,4384.0,1.0,4383.0,3997.0,386.0,0.0,1.0,49.0,367.0,553.0,1086.0,754.0,582.0,344.0,470.0,151.0,14.0,8.0,4.0,1976.0,2407.0,827.0,766.0,814.0,2012
+davon Verbrechen,2066.0,4217.0,6.0,4146.0,2499.0,0.0,2499.0,2209.0,290.0,0.0,0.0,1.0,32.0,151.0,575.0,549.0,424.0,270.0,342.0,129.0,21.0,3.0,2.0,549.0,1950.0,414.0,160.0,1376.0,2012
+"anbauen, herstellen oder anders erzeugen",130.0,177.0,0.0,176.0,160.0,0.0,160.0,146.0,14.0,0.0,0.0,0.0,0.0,1.0,16.0,40.0,19.0,21.0,35.0,24.0,4.0,0.0,0.0,126.0,34.0,29.0,1.0,4.0,2012
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",256.0,333.0,2.0,326.0,317.0,0.0,317.0,250.0,67.0,0.0,0.0,0.0,1.0,8.0,48.0,59.0,61.0,49.0,61.0,24.0,3.0,1.0,2.0,32.0,285.0,47.0,8.0,230.0,2012
+"besitzen, aufbewahren, erwerben, anders erlangen",1191.0,1420.0,0.0,1388.0,1378.0,0.0,1378.0,1222.0,156.0,0.0,0.0,0.0,18.0,85.0,331.0,297.0,221.0,152.0,178.0,80.0,12.0,2.0,2.0,264.0,1114.0,188.0,60.0,866.0,2012
+Ehemalige Kategorie Handel (Verbrechen),1670.0,2287.0,4.0,2256.0,2078.0,0.0,2078.0,1861.0,217.0,0.0,0.0,1.0,29.0,135.0,509.0,459.0,351.0,204.0,272.0,102.0,14.0,2.0,0.0,426.0,1652.0,356.0,148.0,1148.0,2012
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, diplomatisches Personal, internationale Funktionäre/innen, Ausweis Ci 
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, Touristen/innen / legal Anwesende ohne ausweispflichtigen Status, Asylsuchende mit Nichteintretensentscheid, abgewiesene Asylsuchende mit Sozialhilfestopp, Rückweisung an der Grenze, illegaler Aufenthalt, im Meldeverfahren, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2012
+"4) Die Kantone Jura und Neuenburg konnten die Codes für BetmG-Übertretungen bis 2019 nicht erfassen, der Kanton Freiburg bis 2020 nicht.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2012
+Stand der Datenbank: 11.02.2013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2012
+© BFS 2013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2012
+Gesamttotal,51765.0,91211.0,89.0,88396.0,37916.0,1.0,37915.0,33640.0,4275.0,0.0,6.0,447.0,4056.0,4789.0,9745.0,6854.0,4359.0,2987.0,3714.0,844.0,102.0,11.0,1.0,21463.0,16452.0,7949.0,2322.0,6181.0,2011
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung4",47978.0,74494.0,23.0,72220.0,34884.0,1.0,34883.0,30933.0,3950.0,0.0,6.0,419.0,3899.0,4519.0,8967.0,6251.0,3928.0,2699.0,3381.0,722.0,85.0,7.0,0.0,20548.0,14335.0,7436.0,1930.0,4969.0,2011
+Konsum von Betäubungsmitteln,42087.0,43711.0,17.0,43645.0,32518.0,0.0,32518.0,28880.0,3638.0,0.0,7.0,395.0,3708.0,4259.0,8387.0,5863.0,3635.0,2475.0,3076.0,642.0,67.0,4.0,0.0,19113.0,13405.0,6943.0,1785.0,4677.0,2011
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",574.0,612.0,1.0,606.0,603.0,0.0,603.0,522.0,81.0,0.0,0.0,3.0,19.0,34.0,108.0,130.0,89.0,57.0,87.0,61.0,13.0,2.0,0.0,511.0,92.0,78.0,0.0,14.0,2011
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",29714.0,30171.0,5.0,27969.0,21642.0,1.0,21641.0,19353.0,2288.0,0.0,3.0,178.0,2225.0,2999.0,5747.0,3867.0,2410.0,1658.0,2037.0,463.0,48.0,6.0,0.0,12468.0,9173.0,4309.0,1363.0,3501.0,2011
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung",11309.0,16717.0,66.0,16176.0,10659.0,1.0,10658.0,9552.0,1106.0,0.0,3.0,93.0,891.0,1118.0,2618.0,1970.0,1389.0,961.0,1228.0,334.0,46.0,6.0,1.0,5204.0,5454.0,2151.0,899.0,2404.0,2011
+davon Vergehen,9675.0,12585.0,57.0,12117.0,8702.0,0.0,8702.0,7823.0,879.0,0.0,3.0,92.0,871.0,1014.0,2162.0,1512.0,1073.0,722.0,963.0,244.0,40.0,6.0,0.0,4825.0,3877.0,1759.0,777.0,1341.0,2011
+"anbauen, herstellen oder anders erzeugen",571.0,639.0,6.0,622.0,617.0,0.0,617.0,557.0,60.0,0.0,0.0,1.0,15.0,19.0,104.0,113.0,108.0,75.0,119.0,52.0,8.0,3.0,0.0,512.0,105.0,99.0,0.0,6.0,2011
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",745.0,780.0,14.0,766.0,730.0,0.0,730.0,636.0,94.0,0.0,0.0,1.0,18.0,57.0,192.0,160.0,109.0,76.0,91.0,18.0,7.0,1.0,0.0,349.0,381.0,95.0,13.0,273.0,2011
+"besitzen, aufbewahren, erwerben, anders erlangen",6791.0,7079.0,6.0,6697.0,6136.0,0.0,6136.0,5537.0,599.0,0.0,4.0,67.0,674.0,764.0,1511.0,1040.0,738.0,489.0,658.0,159.0,28.0,4.0,0.0,3598.0,2538.0,1276.0,427.0,835.0,2011
+Ehemalige Kategorie Handel (Vergehen),3800.0,4087.0,31.0,4032.0,3612.0,0.0,3612.0,3265.0,347.0,0.0,0.0,38.0,266.0,364.0,893.0,621.0,461.0,336.0,474.0,143.0,13.0,3.0,0.0,1696.0,1916.0,756.0,599.0,561.0,2011
+davon Verbrechen,1914.0,4132.0,9.0,4059.0,2352.0,1.0,2351.0,2079.0,272.0,0.0,0.0,1.0,23.0,134.0,527.0,539.0,384.0,295.0,334.0,101.0,12.0,0.0,1.0,525.0,1826.0,512.0,157.0,1157.0,2011
+"anbauen, herstellen oder anders erzeugen",102.0,131.0,0.0,130.0,128.0,1.0,127.0,116.0,11.0,0.0,0.0,0.0,0.0,2.0,21.0,29.0,16.0,17.0,26.0,13.0,3.0,0.0,0.0,91.0,36.0,24.0,0.0,12.0,2011
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",255.0,346.0,6.0,342.0,338.0,0.0,338.0,276.0,62.0,0.0,0.0,0.0,0.0,3.0,46.0,70.0,63.0,62.0,65.0,27.0,1.0,0.0,1.0,51.0,287.0,66.0,5.0,216.0,2011
+"besitzen, aufbewahren, erwerben, anders erlangen",1159.0,1449.0,1.0,1411.0,1368.0,1.0,1367.0,1233.0,134.0,0.0,0.0,1.0,15.0,71.0,327.0,328.0,197.0,176.0,186.0,60.0,6.0,0.0,0.0,268.0,1099.0,260.0,75.0,764.0,2011
+Ehemalige Kategorie Handel (Verbrechen),1575.0,2206.0,2.0,2176.0,1990.0,1.0,1989.0,1773.0,216.0,0.0,0.0,1.0,20.0,122.0,467.0,469.0,324.0,225.0,272.0,79.0,10.0,0.0,0.0,416.0,1573.0,443.0,148.0,982.0,2011
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, diplomatisches Personal, internationale Funktionäre/innen, Ausweis Ci 
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, Touristen/innen / legal Anwesende ohne ausweispflichtigen Status, Asylsuchende mit Nichteintretensentscheid, abgewiesene Asylsuchende mit Sozialhilfestopp, Rückweisung an der Grenze, illegaler Aufenthalt, im Meldeverfahren, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011
+"4) Die Kantone Jura und Neuenburg konnten die Codes für BetmG-Übertretungen bis 2019 nicht erfassen, der Kanton Freiburg bis 2020 nicht.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011
+Stand der Datenbank: 13.02.2012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011
+© BFS 2012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011
+Gesamttotal,50446.0,89173.0,116.0,87544.0,38697.0,1.0,38696.0,34104.0,4592.0,0.0,6.0,558.0,4352.0,4878.0,9740.0,6960.0,4323.0,3288.0,3694.0,783.0,94.0,14.0,6.0,22366.0,16330.0,8454.0,1986.0,5890.0,2010
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung4",46330.0,70745.0,23.0,69554.0,35617.0,1.0,35616.0,31337.0,4279.0,0.0,5.0,537.0,4182.0,4567.0,8958.0,6334.0,3909.0,2982.0,3359.0,697.0,76.0,8.0,2.0,21480.0,14136.0,7875.0,1497.0,4764.0,2010
+Konsum von Betäubungsmitteln,41989.0,44071.0,14.0,44015.0,33517.0,0.0,33517.0,29504.0,4013.0,0.0,5.0,514.0,4027.0,4341.0,8486.0,5935.0,3636.0,2778.0,3093.0,628.0,66.0,6.0,2.0,20276.0,13241.0,7376.0,1379.0,4486.0,2010
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",626.0,658.0,4.0,654.0,639.0,1.0,638.0,555.0,83.0,0.0,0.0,7.0,37.0,55.0,100.0,102.0,90.0,77.0,106.0,49.0,11.0,4.0,0.0,548.0,90.0,81.0,2.0,7.0,2010
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",25761.0,26016.0,5.0,24885.0,19920.0,1.0,19919.0,17860.0,2059.0,0.0,1.0,184.0,2174.0,2740.0,5254.0,3527.0,2133.0,1633.0,1829.0,395.0,42.0,7.0,0.0,11799.0,8120.0,4152.0,973.0,2995.0,2010
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung",12493.0,18428.0,93.0,17990.0,11681.0,1.0,11680.0,10461.0,1219.0,0.0,2.0,99.0,936.0,1341.0,2891.0,2198.0,1416.0,1123.0,1313.0,308.0,42.0,6.0,5.0,5597.0,6083.0,2420.0,1106.0,2557.0,2010
+davon Vergehen,10566.0,13788.0,68.0,13446.0,9605.0,1.0,9604.0,8618.0,986.0,0.0,2.0,98.0,891.0,1187.0,2444.0,1731.0,1085.0,856.0,1036.0,238.0,32.0,2.0,2.0,5125.0,4479.0,2021.0,910.0,1548.0,2010
+"anbauen, herstellen oder anders erzeugen",616.0,665.0,3.0,653.0,634.0,1.0,633.0,573.0,60.0,0.0,0.0,2.0,26.0,40.0,93.0,126.0,78.0,87.0,126.0,49.0,5.0,1.0,0.0,510.0,123.0,103.0,0.0,20.0,2010
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",636.0,676.0,22.0,661.0,638.0,0.0,638.0,563.0,75.0,0.0,1.0,7.0,15.0,53.0,156.0,144.0,91.0,76.0,70.0,20.0,4.0,0.0,1.0,272.0,366.0,82.0,10.0,274.0,2010
+"besitzen, aufbewahren, erwerben, anders erlangen",7000.0,7368.0,5.0,7120.0,6437.0,1.0,6436.0,5793.0,643.0,0.0,1.0,52.0,608.0,813.0,1662.0,1159.0,729.0,558.0,687.0,152.0,15.0,0.0,0.0,3587.0,2849.0,1385.0,492.0,972.0,2010
+Ehemalige Kategorie Handel (Vergehen),4705.0,5079.0,38.0,5012.0,4423.0,1.0,4422.0,3976.0,446.0,0.0,0.0,48.0,371.0,535.0,1091.0,786.0,523.0,395.0,543.0,110.0,17.0,2.0,1.0,2033.0,2389.0,953.0,748.0,688.0,2010
+davon Verbrechen,2378.0,4640.0,25.0,4544.0,2686.0,1.0,2685.0,2376.0,309.0,0.0,0.0,2.0,54.0,199.0,589.0,592.0,418.0,340.0,375.0,99.0,10.0,4.0,3.0,712.0,1973.0,542.0,252.0,1179.0,2010
+"anbauen, herstellen oder anders erzeugen",127.0,174.0,0.0,174.0,164.0,1.0,163.0,143.0,20.0,0.0,0.0,0.0,1.0,3.0,11.0,38.0,30.0,26.0,35.0,15.0,2.0,2.0,0.0,131.0,32.0,28.0,0.0,4.0,2010
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",260.0,381.0,13.0,369.0,330.0,0.0,330.0,270.0,60.0,0.0,0.0,1.0,2.0,17.0,54.0,65.0,60.0,40.0,67.0,20.0,4.0,0.0,0.0,58.0,272.0,67.0,14.0,191.0,2010
+"besitzen, aufbewahren, erwerben, anders erlangen",1203.0,1482.0,1.0,1430.0,1343.0,1.0,1342.0,1195.0,147.0,0.0,0.0,2.0,29.0,114.0,307.0,298.0,187.0,149.0,195.0,56.0,4.0,1.0,0.0,297.0,1045.0,223.0,132.0,690.0,2010
+Ehemalige Kategorie Handel (Verbrechen),2045.0,2603.0,11.0,2571.0,2327.0,0.0,2327.0,2077.0,250.0,0.0,0.0,1.0,44.0,180.0,540.0,509.0,351.0,296.0,316.0,77.0,7.0,3.0,3.0,599.0,1728.0,488.0,240.0,1000.0,2010
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, diplomatisches Personal, internationale Funktionäre/innen, Ausweis Ci 
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, Touristen/innen / legal Anwesende ohne ausweispflichtigen Status, Asylsuchende mit Nichteintretensentscheid, abgewiesene Asylsuchende mit Sozialhilfestopp, Rückweisung an der Grenze, illegaler Aufenthalt, im Meldeverfahren, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2010
+"4) Die Kantone Jura und Neuenburg konnten die Codes für BetmG-Übertretungen bis 2019 nicht erfassen, der Kanton Freiburg bis 2020 nicht.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2010
+Stand der Datenbank: 11.02.2011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2010
+© BFS 2011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2010
+Gesamttotal,49859.0,85742.0,78.0,84724.0,38310.0,2.0,38308.0,33726.0,4582.0,0.0,2.0,535.0,4506.0,4860.0,9516.0,6757.0,4273.0,3334.0,3721.0,702.0,77.0,11.0,14.0,22568.0,15740.0,7978.0,1838.0,5922.0,2009
+"Total Straftaten zum Eigenkonsum: illegaler Konsum, Besitz, Kauf, Gebrauch, Anbau oder Herstellung4",45500.0,67884.0,20.0,67235.0,34849.0,1.0,34848.0,30636.0,4212.0,0.0,2.0,500.0,4296.0,4508.0,8677.0,6040.0,3847.0,3037.0,3305.0,582.0,50.0,3.0,1.0,21548.0,13300.0,7312.0,1321.0,4665.0,2009
+Konsum von Betäubungsmitteln,41488.0,43272.0,15.0,43207.0,32818.0,1.0,32817.0,28839.0,3978.0,0.0,2.0,476.0,4115.0,4304.0,8209.0,5656.0,3599.0,2831.0,3058.0,523.0,41.0,2.0,1.0,20368.0,12449.0,6834.0,1201.0,4412.0,2009
+"anbauen, herstellen oder anders erzeugen, zum Eigenkonsum",475.0,488.0,1.0,484.0,453.0,1.0,452.0,400.0,52.0,0.0,0.0,3.0,28.0,31.0,93.0,86.0,48.0,54.0,77.0,25.0,5.0,2.0,0.0,372.0,80.0,76.0,1.0,3.0,2009
+"besitzen, aufbewahren, erwerben oder anders erlangen, zum Eigenkonsum",24023.0,24124.0,4.0,23544.0,18768.0,1.0,18767.0,16852.0,1915.0,0.0,1.0,191.0,2174.0,2618.0,4942.0,3243.0,2024.0,1549.0,1694.0,302.0,26.0,3.0,0.0,11194.0,7573.0,3759.0,824.0,2988.0,2009
+"Total Straftaten nicht für den persönlichen Konsum bestimmt: illegaler Handel, Anbau oder Herstellung",12822.0,17858.0,58.0,17489.0,12001.0,2.0,11999.0,10745.0,1254.0,0.0,0.0,144.0,1035.0,1369.0,2933.0,2261.0,1441.0,1107.0,1323.0,318.0,47.0,8.0,13.0,5929.0,6070.0,2476.0,1052.0,2542.0,2009
+davon Vergehen,10683.0,13351.0,51.0,13050.0,9606.0,2.0,9604.0,8637.0,967.0,0.0,0.0,140.0,982.0,1236.0,2396.0,1691.0,1082.0,838.0,976.0,230.0,30.0,2.0,1.0,5361.0,4243.0,2017.0,802.0,1424.0,2009
+"anbauen, herstellen oder anders erzeugen",638.0,707.0,6.0,698.0,684.0,1.0,683.0,619.0,64.0,0.0,0.0,3.0,27.0,35.0,128.0,135.0,108.0,79.0,132.0,33.0,3.0,0.0,0.0,579.0,104.0,90.0,1.0,13.0,2009
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",444.0,480.0,7.0,458.0,438.0,0.0,438.0,359.0,79.0,0.0,0.0,0.0,15.0,30.0,105.0,107.0,58.0,34.0,66.0,18.0,5.0,0.0,0.0,181.0,257.0,66.0,9.0,182.0,2009
+"besitzen, aufbewahren, erwerben, anders erlangen",6996.0,7209.0,3.0,7029.0,6355.0,2.0,6353.0,5748.0,605.0,0.0,0.0,79.0,668.0,801.0,1623.0,1090.0,722.0,575.0,619.0,153.0,23.0,0.0,0.0,3710.0,2643.0,1334.0,393.0,916.0,2009
+Ehemalige Kategorie Handel (Vergehen),4619.0,4955.0,35.0,4865.0,4320.0,1.0,4319.0,3911.0,408.0,0.0,0.0,67.0,421.0,578.0,1030.0,763.0,487.0,377.0,467.0,114.0,12.0,2.0,1.0,2124.0,2195.0,945.0,603.0,647.0,2009
+davon Verbrechen,2405.0,4507.0,7.0,4439.0,2844.0,0.0,2844.0,2506.0,338.0,0.0,0.0,6.0,67.0,174.0,637.0,660.0,417.0,311.0,417.0,113.0,24.0,6.0,12.0,767.0,2077.0,550.0,304.0,1223.0,2009
+"anbauen, herstellen oder anders erzeugen",143.0,157.0,0.0,156.0,126.0,0.0,126.0,109.0,17.0,0.0,0.0,1.0,1.0,3.0,16.0,31.0,20.0,15.0,25.0,12.0,1.0,1.0,0.0,96.0,30.0,26.0,0.0,4.0,2009
+"lagern, versenden, befördern, einführen, ausführen oder durchführen",246.0,412.0,2.0,404.0,349.0,0.0,349.0,281.0,68.0,0.0,0.0,0.0,4.0,16.0,55.0,61.0,63.0,44.0,66.0,20.0,6.0,4.0,10.0,74.0,275.0,65.0,13.0,197.0,2009
+"besitzen, aufbewahren, erwerben, anders erlangen",1095.0,1219.0,1.0,1191.0,1213.0,0.0,1213.0,1114.0,99.0,0.0,0.0,3.0,35.0,83.0,310.0,297.0,153.0,128.0,141.0,47.0,6.0,2.0,8.0,270.0,943.0,166.0,151.0,626.0,2009
+Ehemalige Kategorie Handel (Verbrechen),2040.0,2719.0,4.0,2688.0,2432.0,0.0,2432.0,2153.0,279.0,0.0,0.0,5.0,57.0,160.0,552.0,569.0,348.0,268.0,353.0,91.0,22.0,3.0,4.0,623.0,1809.0,492.0,290.0,1027.0,2009
+"3) Ständige Wohnbevölkerung: Schweizer/innen, Ausländer/innen mit Ausweis B, C, diplomatisches Personal, internationale Funktionäre/innen, Ausweis Ci 
+Asylbevölkerung: Ausländer/innen mit Ausweis F, N, S
+Übrige Ausländer/innen: Ausländer/innen mit Ausweis L, G, Touristen/innen / legal Anwesende ohne ausweispflichtigen Status, Asylsuchende mit Nichteintretensentscheid, abgewiesene Asylsuchende mit Sozialhilfestopp, Rückweisung an der Grenze, illegaler Aufenthalt, im Meldeverfahren, Aufenthaltsstatus unbekannt oder fehlend.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2009
+"4) Die Kantone Jura und Neuenburg konnten die Codes für BetmG-Übertretungen bis 2019 nicht erfassen, der Kanton Freiburg bis 2020 nicht.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,2009
+Stand der Datenbank: 10.02.2010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2009
+© BFS 2010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2009
