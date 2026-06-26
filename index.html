@@ -15,169 +15,180 @@
 
         body {
             margin: 0;
-            font-size: 20px;
-            font-family: 'Lora', Georgia, serif;
+            font-size: 17px;
+            font-family: Georgia, 'Times New Roman', serif;
             text-rendering: optimizeLegibility;
-            background: #f5f5f5;
-            color: #1a1a1a;
+            background: #fff;
+            color: #111;
         }
 
         .content {
-            max-width: 700px;
+            max-width: 640px;
             margin: auto;
             padding: 0 1.5em;
         }
 
         /* ── Header ── */
         .header-block {
-            background: #1a1a1a;
-            color: #f5f0ea;
-            padding: 5em 0 4em;
+            background: #fff;
+            border-top: 3px solid #111;
+            border-bottom: 1px solid #e2e2e2;
+            padding: 2.5em 0 2em;
         }
 
-        .header-block .content {}
-
         .kicker {
-            font-family: 'Lora', Georgia, serif;
-            font-size: 0.7em;
-            letter-spacing: 0.12em;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 0.65em;
+            font-weight: 700;
+            letter-spacing: 0.1em;
             text-transform: uppercase;
-            color: #c94c43;
+            color: #666;
             margin-bottom: 0.8em;
         }
 
         h1 {
-            font-family: 'Libre Baskerville', serif;
+            font-family: 'Libre Baskerville', Georgia, serif;
             font-weight: 700;
-            font-size: 3em;
-            line-height: 1.08;
+            font-size: 2.6em;
+            line-height: 1.1;
             margin: 0 0 0.5em 0;
-            color: #f5f0ea;
+            color: #c0367a;
         }
 
         .subhead {
-            font-family: 'Lora', Georgia, serif;
-            font-size: 1.15em;
-            line-height: 1.55;
-            color: #b0a898;
-            margin: 0 0 1.5em 0;
+            font-family: Georgia, serif;
+            font-size: 1.1em;
+            line-height: 1.5;
+            color: #555;
+            margin: 0 0 1.2em 0;
         }
 
         .byline {
-            font-size: 0.78em;
-            color: #807870;
-            letter-spacing: 0.04em;
-            border-top: 1px solid #333;
-            padding-top: 1em;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 0.72em;
+            color: #333;
+            font-weight: 700;
+            letter-spacing: 0.02em;
+            border-top: 1px solid #e2e2e2;
+            padding-top: 0.8em;
+            margin-top: 0.8em;
+        }
+
+        .dateline {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 0.72em;
+            color: #999;
+            font-weight: 400;
+            margin-top: 0.2em;
         }
 
         /* ── Body ── */
         .body-section {
-            padding: 3em 0;
+            padding: 2.5em 0;
         }
 
         p {
-            line-height: 1.7;
+            line-height: 1.75;
             margin: 0;
             padding-bottom: 1.2em;
-            color: #2a2a2a;
+            color: #111;
         }
 
-        a { color: #c94c43; }
+        a { color: #111; text-decoration: underline; }
+        a:hover { color: #555; }
 
         h2 {
-            font-family: 'Libre Baskerville', serif;
-            font-size: 1.5em;
-            line-height: 1.2;
-            margin: 2.5em 0 0.6em 0;
-            color: #1a1a1a;
-            border-top: 2px solid #222;
-            padding-top: 0.8em;
+            font-family: 'Libre Baskerville', Georgia, serif;
+            font-size: 1.3em;
+            font-weight: 700;
+            line-height: 1.25;
+            margin: 2.2em 0 0.5em 0;
+            color: #111;
         }
 
-        /* Opening paragraph — larger */
         .lede {
-            font-size: 1.18em;
-            line-height: 1.65;
-            padding-bottom: 1.4em;
+            font-size: 1.05em;
+            line-height: 1.75;
+            padding-bottom: 1.2em;
         }
 
-        /* Key finding box */
+        /* Key finding box — NYT uses italic dropped text */
         .nutgraf {
-            background: #efefef;
-            border-left: 4px solid #555;
-            padding: 1.1em 1.4em;
-            margin: 1.8em 0;
-            color: #2a2a2a;
+            font-style: italic;
             font-size: 1.05em;
-            line-height: 1.6;
+            line-height: 1.7;
+            color: #333;
+            border-top: 1px solid #e2e2e2;
+            border-bottom: 1px solid #e2e2e2;
+            padding: 1em 0;
+            margin: 1.5em 0;
         }
 
         /* Pull quote */
         .pullquote {
-            font-family: 'Libre Baskerville', serif;
             font-style: italic;
-            font-size: 1.35em;
-            line-height: 1.45;
-            color: #333;
-            border-top: 1px solid #ccc;
-            border-bottom: 1px solid #ccc;
-            padding: 1em 0;
-            margin: 2em 0;
+            font-size: 1em;
+            line-height: 1.75;
+            color: #555;
+            margin: 0;
+            padding-bottom: 1.2em;
         }
 
         /* Methodology box */
         .method-box {
-            background: #ebebeb;
-            border-radius: 4px;
-            padding: 1em 1.4em;
-            font-size: 0.85em;
-            line-height: 1.55;
-            color: #555;
-            margin: 1.5em 0 2em;
+            background: #f7f7f7;
+            padding: 1em 1.3em;
+            font-size: 0.83em;
+            line-height: 1.6;
+            color: #444;
+            margin: 1.2em 0 1.8em;
+            border-left: 2px solid #ccc;
         }
         .method-box strong {
             display: block;
-            font-family: 'Libre Baskerville', serif;
-            color: #222;
-            margin-bottom: 0.3em;
-            font-size: 1em;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            color: #111;
+            margin-bottom: 0.4em;
         }
 
         /* Stat callouts */
         .stat-row {
             display: flex;
-            gap: 1.5em;
-            margin: 2em 0;
+            gap: 0;
+            margin: 1.8em 0;
+            border-top: 3px solid #111;
+            border-bottom: 1px solid #e2e2e2;
         }
         .stat-item {
             flex: 1;
-            background: #fff;
-            border: 1px solid #ddd;
-            border-top: 3px solid #222;
-            padding: 1em 1.2em;
+            padding: 1em 1em 1em 0;
+            border-right: 1px solid #e2e2e2;
         }
+        .stat-item:last-child { border-right: none; }
+        .stat-item:not(:first-child) { padding-left: 1em; }
         .stat-number {
-            font-family: 'Libre Baskerville', serif;
+            font-family: 'Libre Baskerville', Georgia, serif;
             font-size: 2em;
             font-weight: 700;
-            color: #1a1a1a;
+            color: #111;
             line-height: 1;
-            margin-bottom: 0.2em;
+            margin-bottom: 0.3em;
         }
         .stat-label {
-            font-size: 0.78em;
-            color: #666;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 0.72em;
+            color: #555;
             line-height: 1.4;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
         }
 
         /* Section divider */
         .divider {
             border: none;
-            border-top: 1px solid #ddd;
-            margin: 3em 0 0;
+            border-top: 1px solid #e2e2e2;
+            margin: 2.5em 0 0;
         }
 
         iframe {
@@ -188,23 +199,26 @@
         }
 
         .chart-note {
-            font-size: 0.78em;
-            color: #888;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 0.72em;
+            color: #999;
             padding-bottom: 2em;
             line-height: 1.4;
         }
 
         /* Footer */
         .footer {
-            background: #1a1a1a;
-            color: #888;
+            background: #fff;
+            border-top: 1px solid #e2e2e2;
             text-align: center;
-            font-size: 0.78em;
-            margin-top: 5em;
-            padding: 3em 0;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 0.72em;
+            color: #999;
+            margin-top: 4em;
+            padding: 2.5em 0;
             line-height: 1.6;
         }
-        .footer p { color: #888; padding-bottom: 0; }
+        .footer p { color: #999; padding-bottom: 0; }
 
         /* ── Scrollytelling ── */
         .scrolly-section {
@@ -268,6 +282,7 @@
         <h1>Swiss drug crime is falling, even as cocaine remains everywhere.</h1>
         <p class="subhead">Cocaine residues remain among Europe's highest. Yet drug offences have almost halved — and the people behind them are getting older.</p>
         <p class="byline">By Anielle Peterhans</p>
+        <p class="dateline">June 2026</p>
     </div>
 </div>
 
@@ -282,20 +297,6 @@
 
    
 
-    <div class="stat-row">
-        <div class="stat-item">
-            <div class="stat-number">8th</div>
-            <div class="stat-label">Switzerland's cocaine ranking among 41 European countries in wastewater data</div>
-        </div>
-        <div class="stat-item">
-            <div class="stat-number">−48%</div>
-            <div class="stat-label">Drop in police-recorded drug offences from 2009 to 2025</div>
-        </div>
-        <div class="stat-item">
-            <div class="stat-number">50+</div>
-            <div class="stat-label">Age group with the only growing share of recorded drug suspects</div>
-        </div>
-    </div>
 
 
     <h2>What wastewater tells us that arrests cannot</h2>
@@ -312,7 +313,7 @@
     <iframe title="Cocaine: Switzerland ranks 8th out of 41 countries" aria-label="Bar Chart" id="datawrapper-chart-OEDYw" src="https://datawrapper.dwcdn.net/OEDYw/2/" scrolling="no" frameborder="0" height="1380" data-external="1"></iframe>
     <p class="chart-note">Source: European Union Drugs Agency wastewater analysis. Figures show average daily loads of cocaine metabolites per 1,000 inhabitants.</p>
 
-    <hr class="divider">
+
 
     <h2>Swiss cities have very different drug profiles</h2>
 
@@ -348,7 +349,7 @@
 <div class="body-section" style="padding-top: 0;">
 <div class="content">
 
-    <hr class="divider">
+
 
     <h2>Police records tell a different story</h2>
 
@@ -361,11 +362,8 @@
 
     <p>The sharpest declines are in offences linked to personal possession and consumption — the categories most sensitive to enforcement priorities. That points to a shift in how Swiss authorities police drug use, not necessarily in how much drug use is happening.</p>
 
-    <div class="pullquote">
-        Wastewater captures what people consume. Police statistics capture what authorities choose to pursue.
-    </div>
 
-    <hr class="divider">
+
 
     <h2>The profile of drug suspects is ageing</h2>
 
@@ -378,7 +376,7 @@
 
     <p>Demographics alone cannot explain a shift this pronounced. More likely, it reflects a mix of changing enforcement patterns, generational differences in drug behaviour, and a gradual retreat from policing younger users.</p>
 
-    <hr class="divider">
+
 
     <h2>Two datasets, one paradox</h2>
 
