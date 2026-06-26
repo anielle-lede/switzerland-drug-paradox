@@ -48,7 +48,7 @@ Maps were created also in Adobe Illustrator from EUDA wastewater data.
 
 ## How to view locally
 
-Just open `index.html` in a browser.
+Just open `index.html` in a browser. Or https://anielle-lede.github.io/switzerland-drug-paradox/ 
 
 ## Author
 
