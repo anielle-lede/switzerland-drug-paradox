@@ -23,12 +23,16 @@ Switzerland's drug landscape, and shows how they diverge.
 
 ## What's in this repo
 switzerland-drug-paradox/
+
 docs/index.html # Main story page
   map-step-1.svg # Switzerland base map (scrollytelling step 1)
   map-step-2.svg # Partial city data (scrollytelling step 2)
   map-step-3.svg # Full city data (scrollytelling step 3)
+
 Analyse_1_drugproject.ipynb # Cleaning and analysis of EUDA wastewater data
+
 Analyse_2_drugproject.ipynb # Cleaning and analysis of BFS police statistics
+
 data/
   cocaine_country_ranking.csv
   drug_offences_by_age.csv
