@@ -23,21 +23,21 @@ Switzerland's drug landscape, and shows how they diverge.
 
 ## What's in this repo
 switzerland-drug-paradox/
-├── index.html # Main story page
-├── map-step-1.svg # Switzerland base map (scrollytelling step 1)
-├── map-step-2.svg # Partial city data (scrollytelling step 2)
-├── map-step-3.svg # Full city data (scrollytelling step 3)
-├── Analyse_1_drugproject.ipynb # Cleaning and analysis of EUDA wastewater data
-└── Analyse_2_drugproject.ipynb # Cleaning and analysis of BFS police statistics
-└── data/
-├── cocaine_country_ranking.csv
-├── drug_offences_by_age.csv
-├── swiss_cocaine_cities.csv
-├── swiss_cocaine_map.csv
-├── swiss_drug_offences_2009_2025_clean.csv
-├── swiss_drugs_heatmap.csv
-├── switzerland_drug_offences_trend.csv
-└── switzerland_drug_ranking_datawrapper.csv
+docs/index.html # Main story page
+  map-step-1.svg # Switzerland base map (scrollytelling step 1)
+  map-step-2.svg # Partial city data (scrollytelling step 2)
+  map-step-3.svg # Full city data (scrollytelling step 3)
+Analyse_1_drugproject.ipynb # Cleaning and analysis of EUDA wastewater data
+Analyse_2_drugproject.ipynb # Cleaning and analysis of BFS police statistics
+data/
+  cocaine_country_ranking.csv
+  drug_offences_by_age.csv
+  swiss_cocaine_cities.csv
+  swiss_cocaine_map.csv
+  swiss_drug_offences_2009_2025_clean.csv
+  swiss_drugs_heatmap.csv
+  switzerland_drug_offences_trend.csv
+  switzerland_drug_ranking_datawrapper.csv
 
 Charts are embedded via [Datawrapper](https://www.datawrapper.de/).  
 Maps were created also in Adobe Illustrator from EUDA wastewater data.
